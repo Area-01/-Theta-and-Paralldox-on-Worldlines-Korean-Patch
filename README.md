@@ -1,5 +1,6 @@
-# -Theta-and-Paralldox-on-Worldlines-Korean-Patch
-게임 Theta and Paralldox on Worldlines의 비공식 한글 패치입니다
+## -Theta-and-Paralldox-on-Worldlines-Korean-Patch
+# 게임 Theta and Paralldox on Worldlines의 비공식 한글 패치입니다
+<img width="796" height="577" alt="image" src="https://github.com/user-attachments/assets/ac6d5bb8-69e6-4ad6-b797-156fc94fa427" />
 
 
 # 다운로드
