@@ -1,0 +1,3698 @@
+[
+    {
+        "ID":  3,
+        "dialogName":  "ch0",
+        "image":  "2",
+        "text_cn":  "……",
+        "text_en":  "",
+        "text_jp":  "……"
+    },
+    {
+        "ID":  4,
+        "dialogName":  "ch0",
+        "image":  "2",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  5,
+        "dialogName":  "ch0",
+        "image":  "2",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  6,
+        "dialogName":  "ch0",
+        "image":  "2",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  7,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  8,
+        "dialogName":  "tut1",
+        "image":  "1",
+        "text_cn":  "다른 내가 내 모든 움직임을 흉내 내는 이 장면을 꿈에서 본 게 한두 번이 아니야",
+        "text_en":  "This isn\u0027t the first time I\u0027ve dreamed of this scene, where another me mimics my every move",
+        "text_jp":  "もう何度も見た夢の景色。もう一人の私が、私と同じ動きを繰り返している。"
+    },
+    {
+        "ID":  9,
+        "dialogName":  "tut1",
+        "image":  "2",
+        "text_cn":  "우리가 [동시에] 빛의 줄기 위에 서면 이곳을 떠날 수 있어",
+        "text_en":  "We can leave this place if we stand on the light beams [simultaneously]",
+        "text_jp":  "私たちが光の上に[同時に]立ったら、ここから出られるよ。"
+    },
+    {
+        "ID":  10,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  11,
+        "dialogName":  "lockmove",
+        "image":  "4",
+        "text_cn":  "여기서는 아직 다른 방향으로 걸어갈 필요 없어!",
+        "text_en":  "No need to walk in other directions here yet!",
+        "text_jp":  "ここではまだ別の方向に行かなくて大丈夫。"
+    },
+    {
+        "ID":  12,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  13,
+        "dialogName":  "tut2",
+        "image":  "1",
+        "text_cn":  "앞으로 나아가다 벽에 부딪혔을 때 그냥 멈추기만 한다면, 그건 좀 지루하겠지",
+        "text_en":  "If we just stop when hitting walls while moving forward, that would be kinda boring",
+        "text_jp":  "前に壁があったら止まるだけだと、ちょっとつまらないよね。"
+    },
+    {
+        "ID":  14,
+        "dialogName":  "tut2",
+        "image":  "1",
+        "text_cn":  "벽에 부딪히면 보통 본능적으로 [왼쪽]으로 돌기 전에 먼저 벽을 만져보려고 해",
+        "text_en":  "When I encounter walls, I usually try touching them first before instinctively turning [Left]",
+        "text_jp":  "壁に当たったら、なんとなく壁に触ってから[左]に曲がっちゃうの。"
+    },
+    {
+        "ID":  15,
+        "dialogName":  "tut2",
+        "image":  "2",
+        "text_cn":  "그러니 이곳에서는 그냥 계속해서 앞으로 나아가기만 하면 돼",
+        "text_en":  "So in this place, I just need to keep moving straight ahead",
+        "text_jp":  "だからここでは、まっすぐ進むだけでいいんだ。"
+    },
+    {
+        "ID":  16,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  17,
+        "dialogName":  "tut3",
+        "image":  "1",
+        "text_cn":  "알고 있어?",
+        "text_en":  "Do you know? ",
+        "text_jp":  "知ってる？"
+    },
+    {
+        "ID":  18,
+        "dialogName":  "tut3",
+        "image":  "1",
+        "text_cn":  "[\u003ckey_undo\u003e]를 누르면 언제든지 마지막 행동을 [취소]할 수 있어!",
+        "text_en":  "Pressing [\u003ckey_undo\u003e] allows [Undo]ing last action at anytime!",
+        "text_jp":  "[\u003ckey_undo\u003e]を押すと、いつでもひとつ前の操作を[取り消し]できるよ。"
+    },
+    {
+        "ID":  19,
+        "dialogName":  "tut3",
+        "image":  "3",
+        "text_cn":  "사실 대화까지 취소할 수 있는데... 그렇게 하면 내가 좀 바보처럼 보일 테니까, 제발 그러지 마",
+        "text_en":  "Actually, you can even undo dialogues... but if you do that, it\u0027ll make me look a bit silly, so please don\u0027t",
+        "text_jp":  "会話だって取り消せるんだけど、そうするとちょっとバカっぽくなっちゃうから、やめてね。"
+    },
+    {
+        "ID":  20,
+        "dialogName":  "tut3",
+        "image":  "1",
+        "text_cn":  "아, 그리고 [\u003ckey_retry\u003e]를 누르면 스테이지 전체를 리셋할 수 있어",
+        "text_en":  "Oh, and pressing [\u003ckey_retry\u003e] will reset the whole level",
+        "text_jp":  "あと、[\u003ckey_retry\u003e]を押すとステージ全体をやり直せるよ。"
+    },
+    {
+        "ID":  21,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  22,
+        "dialogName":  "tut4",
+        "image":  "1",
+        "text_cn":  "왜 나는 항상 [왼쪽]으로 도는 걸까…",
+        "text_en":  "I wonder why I always turn [Left]…",
+        "text_jp":  "なんでいつも[左]に曲がっちゃうんだろう。"
+    },
+    {
+        "ID":  23,
+        "dialogName":  "tut4",
+        "image":  "1",
+        "text_cn":  "여기에는 분명 어떤 신비로운 원리가 숨겨져 있을 거야... 하지만 아직은 모르겠어",
+        "text_en":  "There must be some mysterious principle behind this... but I don\u0027t know yet",
+        "text_jp":  "きっとすごい法則があるんだと思う……まだわかんないけど。"
+    },
+    {
+        "ID":  24,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  25,
+        "dialogName":  "tut5",
+        "image":  "1",
+        "text_cn":  "벽에 부딪힌 후 [왼쪽]으로 돌았는데도 여전히 다른 벽이 나타난다면",
+        "text_en":  "If turning [Left] after hitting a wall still leads to another wall",
+        "text_jp":  "壁に当たって[左]に曲がっても、まだ壁だったら、"
+    },
+    {
+        "ID":  26,
+        "dialogName":  "tut5",
+        "image":  "1",
+        "text_cn":  "그냥 다시 한번 [왼쪽]으로 돌 거야",
+        "text_en":  "I\u0027ll just repeat the [Left] turn again",
+        "text_jp":  "もう一度[左]に曲がるの。"
+    },
+    {
+        "ID":  27,
+        "dialogName":  "tut5",
+        "image":  "2",
+        "text_cn":  "결국에는 반대 방향으로 가는 것처럼 보이게 되겠지!",
+        "text_en":  "Eventually it\u0027ll look like I\u0027m going the opposite direction!",
+        "text_jp":  "そうすると反対向きに進んでるみたいになるんだ。"
+    },
+    {
+        "ID":  28,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  29,
+        "dialogName":  "tut6",
+        "image":  "1",
+        "text_cn":  "이 세계의 규칙들을 내 [노트]에 기록해 둘게.",
+        "text_en":  "I\u0027ll record the rules of this world in my [Notebook].",
+        "text_jp":  "この世界のルールは[ノート]にメモしておくね。"
+    },
+    {
+        "ID":  30,
+        "dialogName":  "tut6",
+        "image":  "1",
+        "text_cn":  "[\u003ckey_escape\u003e] 키를 누르면 온갖 기능이 들어있는 메뉴라는 게 나타나",
+        "text_en":  "Pressing the [\u003ckey_escape\u003e] key brings up something called a menu with all sorts of features.",
+        "text_jp":  "[\u003ckey_escape\u003e]を押すとメニューって言うのが出てきて、いろいろできるよ。"
+    },
+    {
+        "ID":  31,
+        "dialogName":  "tut6",
+        "image":  "1",
+        "text_cn":  "아직 꿈속이지만, 언제든지 확인할 수 있어.",
+        "text_en":  "Even though we\u0027re still in the dream, I can check it anytime. ",
+        "text_jp":  "夢の中だけど、ちゃんと開けるんだよ！"
+    },
+    {
+        "ID":  32,
+        "dialogName":  "tut6",
+        "image":  "2",
+        "text_cn":  "왜냐하면 난 마법 소녀니까! 마법은 정말 대단하지, 그치~?",
+        "text_en":  "Because I\u0027m a magic girl! Magic is amazing, right~?",
+        "text_jp":  "だって魔法少女だもん。すごいでしょ～？"
+    },
+    {
+        "ID":  33,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  34,
+        "dialogName":  "tut7",
+        "image":  "1",
+        "text_cn":  "변하지 않는 것들도 있어",
+        "text_en":  "Some things never change",
+        "text_jp":  "変わらないものもある。"
+    },
+    {
+        "ID":  35,
+        "dialogName":  "tut7",
+        "image":  "1",
+        "text_cn":  "시계태엽처럼, 영원히 순환하며 나아갈 뿐...",
+        "text_en":  "Just like clockwork, forever advancing in cycles...",
+        "text_jp":  "時計みたいに、ずっと巡り続けて……"
+    },
+    {
+        "ID":  36,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  37,
+        "dialogName":  "tut8",
+        "image":  "1",
+        "text_cn":  "방금 ... 뭐라고 했지?",
+        "text_en":  "Just like ... what?",
+        "text_jp":  "何だっけ……？"
+    },
+    {
+        "ID":  38,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  39,
+        "dialogName":  "tut9",
+        "image":  "1",
+        "text_cn":  "왼쪽으로 두 번 연속해서 꺾었는데도 벽이 있다면",
+        "text_en":  "If walls persist after two consecutive left turns",
+        "text_jp":  "壁に当たって二回[左]に曲がってもまだ壁なら、あと一回[左]に曲がるだけ。"
+    },
+    {
+        "ID":  40,
+        "dialogName":  "tut9",
+        "image":  "1",
+        "text_cn":  "물론, 그때는 왼쪽으로 한 번 더 꺾어야겠지.",
+        "text_en":  "I\u0027ll have to turn left once more, of course.",
+        "text_jp":  "もちろん、そのときはもう一方向しか残ってないんだけどね。"
+    },
+    {
+        "ID":  41,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  42,
+        "dialogName":  "hint",
+        "image":  "2",
+        "text_cn":  "꿈속에서는 이 수수께끼들의 핵심을 고찰할 수 있어!",
+        "text_en":  "In dreams, I can contemplate the core of these puzzles!",
+        "text_jp":  "夢の中だから、この謎の核心を考えられるんだ！"
+    },
+    {
+        "ID":  43,
+        "dialogName":  "hint",
+        "image":  "3",
+        "text_cn":  "어려운 일이 생길 때마다 자고 싶다고 생각하는 게 절대 아니라고!",
+        "text_en":  "I\u0027m definitely not thinking about sleeping whenever things get hard!",
+        "text_jp":  "困ったら寝ようとか、ぜんぜん思ってないもん！"
+    },
+    {
+        "ID":  44,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  45,
+        "dialogName":  "1",
+        "image":  "1",
+        "text_cn":  "[\"신은 이중 슬릿을 통해 세상을 관측한다\"]",
+        "text_en":  "[\"God observes the world through double slits\"]",
+        "text_jp":  "[「神は双縫を通して世界を観測する」]"
+    },
+    {
+        "ID":  46,
+        "dialogName":  "1",
+        "image":  "1",
+        "text_cn":  "[\"포크를 집어 \u003ckey_split\u003e을 누르고, 확률을 두 갈래 길로 분열시켜라\"]",
+        "text_en":  "[\"Pick up the fork, press \u003ckey_split\u003e, split your probability into dual paths\"]",
+        "text_jp":  "[「叉を拾い、\u003ckey_split\u003eを押し、君の確率を二つに分裂させよ」]"
+    },
+    {
+        "ID":  47,
+        "dialogName":  "1",
+        "image":  "1",
+        "text_cn":  "...그게 석판에 적혀 있는 내용이야. \u003ckey_split\u003e은 뭐고, \"확률\"은 또 뭐야?",
+        "text_en":  "...That\u0027s what the stone tablet says. What\u0027s this \u003ckey_split\u003e? And \"probability\"?",
+        "text_jp":  "……石碑にはそう書いてあった。[\u003ckey_split\u003e]って何？確率って何？"
+    },
+    {
+        "ID":  48,
+        "dialogName":  "1",
+        "image":  "1",
+        "text_cn":  "어쨌든 일단 실험부터 해보자",
+        "text_en":  "Let\u0027s experiment first anyway",
+        "text_jp":  "とりあえずやってみよう。"
+    },
+    {
+        "ID":  49,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  50,
+        "dialogName":  "sidesplit",
+        "image":  "1",
+        "text_cn":  "우선은 내가 바라보는 방향의 왼쪽과 오른쪽 모두로 분열을 시도해 볼 거야!",
+        "text_en":  "I would try to split at both left and right side of my facing direction at first!",
+        "text_jp":  "向いてる方向の[左]と[右]に分裂するんだ！"
+    },
+    {
+        "ID":  51,
+        "dialogName":  "sidesplit",
+        "image":  "1",
+        "text_cn":  "만약 왼쪽이나 오른쪽 중 한 곳이 막혀 있다면, 대신 정면에 복제본을 만들 거야",
+        "text_en":  "If either left or right side is blocked, I\u0027ll split a copy at front instead",
+        "text_jp":  "どっちかが塞がってたら、代わりに前にコピーを出すの。"
+    },
+    {
+        "ID":  52,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  53,
+        "dialogName":  "limit",
+        "image":  "1",
+        "text_cn":  "포크의 [분열] 능력은 내가 두 곳에 존재할 확률을 동일하게 부여함으로써 작동해",
+        "text_en":  "The fork\u0027s [Split] ability works by giving me equal probability to exist in both places",
+        "text_jp":  "[分裂]の仕組みは、私が半分ずつの確率で二つの場所にいることなの。"
+    },
+    {
+        "ID":  54,
+        "dialogName":  "limit",
+        "image":  "1",
+        "text_cn":  "슬라임 같은 생물의 증식과는 달라, 둘 다 현재의 [나] 자신인 거야",
+        "text_en":  "Not reproduction like slime or other things, but both being the present [Me]",
+        "text_jp":  "スライムみたいな増え方じゃなくて、二人とも今の[私]なんだよ。"
+    },
+    {
+        "ID":  55,
+        "dialogName":  "limit",
+        "image":  "1",
+        "text_cn":  "하지만 어떤 것들은 논리를 거스르지. 예를 들어, 열쇠 하나로 연속된 두 개의 자물쇠를 여는 것처럼",
+        "text_en":  "Yet some things defy logic - like using one key on two consecutive locks",
+        "text_jp":  "でも一把の鍵で二つの錠前を開けちゃうとか、ちょっとおかしいよね。"
+    },
+    {
+        "ID":  56,
+        "dialogName":  "limit",
+        "image":  "4",
+        "text_cn":  "어쩌면 규칙이 이런 사소한 역설에 대해 [허용]을 보여주는 걸지도 몰라",
+        "text_en":  "Maybe the rule shows [Tolerance] to these minor paradoxes",
+        "text_jp":  "ルールがそういうズレを[許容]してるから、ちょっとした矛盾が起きるのかも。"
+    },
+    {
+        "ID":  57,
+        "dialogName":  "limit",
+        "image":  "1",
+        "text_cn":  "그래서 가끔 궁금해... 이 세계의 작동 허용 오차의 한계는 어디까지일까?",
+        "text_en":  "So sometimes I wonder... where\u0027s the limit of this world\u0027s operational tolerance?",
+        "text_jp":  "この世界のルールの限界って、どこなんだろうって思うの。"
+    },
+    {
+        "ID":  58,
+        "dialogName":  "limit",
+        "image":  "2",
+        "text_cn":  "여기서 그 정체를 밝혀내 보자고.",
+        "text_en":  "Let\u0027s unveil its true essence, right here.",
+        "text_jp":  "ここで、その正体を暴いてみよう。"
+    },
+    {
+        "ID":  59,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  60,
+        "dialogName":  "dark",
+        "image":  "1",
+        "text_cn":  "세계선 이론의 금자탑 위에 두 개의 먹구름이 떠 있어",
+        "text_en":  "Two dark clouds are hovering over the edifice of World-Line Theory",
+        "text_jp":  "世界線理論の大空に、二つの暗雲が浮かんでいる。"
+    },
+    {
+        "ID":  61,
+        "dialogName":  "dark",
+        "image":  "1",
+        "text_cn":  "상자 두 개가 겹쳐 있다는 건 무엇을 의미하는 걸까... 그리고 이 구름들 자체는 또 무엇일까?",
+        "text_en":  "What does the stacking of two boxes means ... and what are these clouds themselves?",
+        "text_jp":  "二つの箱が重なるとは何を意味するのか……そしてこの雲そのものは何なのか。"
+    },
+    {
+        "ID":  62,
+        "dialogName":  "dark",
+        "image":  "1",
+        "text_cn":  "어둠 속에 앞으로 나아갈 길이 있고, 더 깊은 진실이 있을지도 몰라요.",
+        "text_en":  "Inside the dark there is the path forward, may also some deeper truths.",
+        "text_jp":  "闇の中に進む道があり、もっと深い真実もあるかもしれない。"
+    },
+    {
+        "ID":  63,
+        "dialogName":  "dark",
+        "image":  "2",
+        "text_cn":  "정말 무섭지만, 조금 설레기도 해요!",
+        "text_en":  "It\u0027s so scary, but a little exciting as well!",
+        "text_jp":  "怖いけど、ちょっとドキドキする。"
+    },
+    {
+        "ID":  64,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  65,
+        "dialogName":  "light",
+        "image":  "2",
+        "text_cn":  "봐요, [프리즘]이에요",
+        "text_en":  "Look, It\u0027s a [Prism]",
+        "text_jp":  "見て、[プリズム]だ。"
+    },
+    {
+        "ID":  66,
+        "dialogName":  "light",
+        "image":  "2",
+        "text_cn":  "여기서 고대 영웅들을 본받아 신성한 빛의 힘을 이용해 봐요!",
+        "text_en":  "Let us emulate the ancient heroes here and harness the power of divine light!",
+        "text_jp":  "古代の英雄にならって、ここで神の光を借りよう！"
+    },
+    {
+        "ID":  67,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  68,
+        "dialogName":  "prism",
+        "image":  "1",
+        "text_cn":  "한 줄기 빛이 프리즘을 통과하며 여러 갈래의 빛이 돼요.",
+        "text_en":  "A beam of light passes through the prism and becomes more beams.",
+        "text_jp":  "一筋の光がプリズムを通って、たくさんの光になる。"
+    },
+    {
+        "ID":  69,
+        "dialogName":  "prism",
+        "image":  "4",
+        "text_cn":  "신은 프리즘을 통해서도 우리를 관측할 수 있어요.",
+        "text_en":  "God can still observe us through the prism.",
+        "text_jp":  "神様はプリズム越しでも私たちを観測できるんだ。"
+    },
+    {
+        "ID":  70,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  71,
+        "dialogName":  "border",
+        "image":  "1",
+        "text_cn":  "이 시련은 낯익어 보이지만, 뭔가 잘못된 것 같아요...",
+        "text_en":  "This trial looks familiar, but something might be wrong...",
+        "text_jp":  "この試練、なんか見たことある気がする……どこか違うけど。"
+    },
+    {
+        "ID":  72,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  73,
+        "dialogName":  "box",
+        "image":  "4",
+        "text_cn":  "봐요, [상자]가 있어요.",
+        "text_en":  "Look, there is a [Box].",
+        "text_jp":  "見て、[箱]だ。"
+    },
+    {
+        "ID":  74,
+        "dialogName":  "box",
+        "image":  "1",
+        "text_cn":  "상자는 매우 위험하기 때문에 이제 다른 곳에서는 찾기 힘들어요",
+        "text_en":  "It\u0027s hard to find boxes elsewhere now because they are VERY DANGEROUS",
+        "text_jp":  "今は箱はほかであんまり見かけないの。すごく危ないから。"
+    },
+    {
+        "ID":  75,
+        "dialogName":  "box",
+        "image":  "1",
+        "text_cn":  "하지만 이건 무해해 보여요.",
+        "text_en":  "But this one looks harmless.",
+        "text_jp":  "でもこれは大丈夫そう。"
+    },
+    {
+        "ID":  76,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  77,
+        "dialogName":  "collapse1",
+        "image":  "1",
+        "text_cn":  "병렬 동작 이후에 두 가지 서로 다른 물체가 겹쳐졌어요.",
+        "text_en":  "Two different stuffs overlapped after parallel actions.",
+        "text_jp":  "二つのものが並行に動いたあと、同じ場所に重なっちゃった。"
+    },
+    {
+        "ID":  78,
+        "dialogName":  "collapse1",
+        "image":  "4",
+        "text_cn":  "그건 그것들이 [중첩] 상태에 있기 때문이에요.",
+        "text_en":  "It\u0027s because of they are in [Superposition] state.",
+        "text_jp":  "[重ね合わせ]状態になってるからかも。"
+    },
+    {
+        "ID":  79,
+        "dialogName":  "collapse1",
+        "image":  "1",
+        "text_cn":  "즉, 그 위치의 상자는 빨간색일 수도 있고 파란색일 수도 있다는 뜻이에요.",
+        "text_en":  "That is to say the box on the position can be either the red one or the blue one.",
+        "text_jp":  "このマスにはAの箱かもしれないしBの箱かもしれない。"
+    },
+    {
+        "ID":  80,
+        "dialogName":  "collapse1",
+        "image":  "1",
+        "text_cn":  "만약 그것을 신의 관측에 노출시키면, 그것들 중 무작위 상태로 [붕괴]될 거예요.",
+        "text_en":  "If we let it be exposed to the observation of god, then it will [collapse] into random state of them.",
+        "text_jp":  "[神の光]で[観測]すると、どっちか一つの状態に[収束]するんだ。"
+    },
+    {
+        "ID":  81,
+        "dialogName":  "collapse1",
+        "image":  "1",
+        "text_cn":  "이것은 세계선 단절을 일으킬 수도 있어요.",
+        "text_en":  "This can cause a  timeline fracture as well. ",
+        "text_jp":  "世界線の断裂も起きるんだよね。"
+    },
+    {
+        "ID":  82,
+        "dialogName":  "collapse1",
+        "image":  "3",
+        "text_cn":  "저는 상자와 중첩될 수 없지만, 대신 그 안에 갇히게 돼요.",
+        "text_en":  "I cannot superposition with boxes, but only trapped inside instead.",
+        "text_jp":  "私は箱と重ね合わせになれないみたい……中に閉じ込められちゃうだけ。"
+    },
+    {
+        "ID":  83,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  84,
+        "dialogName":  "boxing",
+        "image":  "3",
+        "text_cn":  "안 돼! 상자 속에 갇혔어요!",
+        "text_en":  "Oh no! I\u0027m trapped in the box!",
+        "text_jp":  "あ、箱に入っちゃった。"
+    },
+    {
+        "ID":  85,
+        "dialogName":  "boxing",
+        "image":  "3",
+        "text_cn":  "너무 어둡고 무서워요!",
+        "text_en":  "It\u0027s so dark and scary! ",
+        "text_jp":  "暗くて怖い～！"
+    },
+    {
+        "ID":  86,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  87,
+        "dialogName":  "boxing2",
+        "image":  "3",
+        "text_cn":  "상자 속에 있는 기분은 좋아하지 않지만,",
+        "text_en":  "I don\u0027t like the feel in the box.",
+        "text_jp":  "箱の中は好きじゃないけど、"
+    },
+    {
+        "ID":  88,
+        "dialogName":  "boxing2",
+        "image":  "3",
+        "text_cn":  "가끔은 어쩔 수 없을 때가 있어요.",
+        "text_en":  "But sometimes I have no choice.",
+        "text_jp":  "仕方ないときもあるんだよね。"
+    },
+    {
+        "ID":  89,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  90,
+        "dialogName":  "catbox",
+        "image":  "1",
+        "text_cn":  "맥스웰의 악마에 대해 들어본 적 있어?",
+        "text_en":  "Did you hear about the Catbox Experiment?",
+        "text_jp":  "「猫箱」の実験、聞いたことある？"
+    },
+    {
+        "ID":  91,
+        "dialogName":  "catbox",
+        "image":  "4",
+        "text_cn":  "고양이가 상자를 삼키게 하면, 상자가 소화될 수도 있고 안 될 수도 있어.",
+        "text_en":  "Let the cat swallow the box, the box might be digested or not.",
+        "text_jp":  "猫が箱を飲み込むと、箱は消化されるかもしれないし、されないかもしれない。"
+    },
+    {
+        "ID":  92,
+        "dialogName":  "catbox",
+        "image":  "4",
+        "text_cn":  "투시 마법으로 고양이를 검사하기 전까지는 상자의 상태를 확인할 수 없어.",
+        "text_en":  "We cannot confirm the status of the box before using X-ray magic to inspect the cat.",
+        "text_jp":  "透視魔法で猫のおなかを見るまで、箱の状態はわからないの。"
+    },
+    {
+        "ID":  93,
+        "dialogName":  "catbox",
+        "image":  "4",
+        "text_cn":  "하지만 검사하는 행위 자체가 실제 결과에 영향을 줄 수도 있지.",
+        "text_en":  "However the inspection action itself might influence the real result. ",
+        "text_jp":  "でも観測しちゃうと、結果が変わっちゃうかも。"
+    },
+    {
+        "ID":  94,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  95,
+        "dialogName":  "ch1",
+        "image":  "1",
+        "text_cn":  "드디어 상륙했다... 정말 어지러워!",
+        "text_en":  "Finally made landfall... It\u0027s so dizzy!",
+        "text_jp":  "やっと上陸！くらくらする～。"
+    },
+    {
+        "ID":  96,
+        "dialogName":  "ch1",
+        "image":  "2",
+        "text_cn":  "\"두 개의 거대한 빛의 기둥 사이에 이름 없는 항구가 있다\"",
+        "text_en":  "\"Between two colossal pillars of light stands a nameless port\"",
+        "text_jp":  "「二本の巨大な光の柱の間に、名前のない港がある」"
+    },
+    {
+        "ID":  97,
+        "dialogName":  "ch1",
+        "image":  "2",
+        "text_cn":  "전설에 따르면 이곳에 세상의 진실, 즉 [신]에 관한 비밀이 숨겨져 있다고 해.",
+        "text_en":  "Legends say this place holds the world\u0027s truth - secrets about [God]",
+        "text_jp":  "ここに世界が沈んだ真実、[神]の秘密があるって。"
+    },
+    {
+        "ID":  98,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "그게 바로 내가 여기 온 이유야...",
+        "text_en":  "That\u0027s exactly why I came here...",
+        "text_jp":  "だからここに来たんだ……"
+    },
+    {
+        "ID":  99,
+        "dialogName":  "ch1",
+        "image":  "1",
+        "text_cn":  "방금 또 그 꿈을 꿨어... 내가 두 명으로 나뉘어 그 이상한 빛줄기들을 쫓는 꿈 말이야.",
+        "text_en":  "Just had that dream again... the one where I split into two selves chasing those strange beams",
+        "text_jp":  "さっきもあの夢を見た。二人に分かれて、変な光を追いかけてる夢。"
+    },
+    {
+        "ID":  100,
+        "dialogName":  "ch1",
+        "image":  "4",
+        "text_cn":  "어쩌면 어떤 종류의 계시일지도 몰라...... 가자!",
+        "text_en":  "Maybe it\u0027s some sort of sign......Let\u0027s move!",
+        "text_jp":  "何かのヒントかも。準備できたら、出発しよう。"
+    },
+    {
+        "ID":  101,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  102,
+        "dialogName":  "ch2",
+        "image":  "1",
+        "text_cn":  "여기는 더 높은 곳이고, 바다 너머로 빛줄기들이 늘어서 있어.",
+        "text_en":  "This is a higher place and beams are lined up across the sea",
+        "text_jp":  "ここはもっと高いところ。海の上に光が並んでる。"
+    },
+    {
+        "ID":  103,
+        "dialogName":  "ch2",
+        "image":  "2",
+        "text_cn":  "여기서 더 깊은 비밀을 찾을 수 있을 것 같은 기분이 들어.",
+        "text_en":  "I have a feeling that I can find deeper secrets here",
+        "text_jp":  "ここにもっと深い秘密がありそうな予感がする。"
+    },
+    {
+        "ID":  104,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  105,
+        "dialogName":  "ch3",
+        "image":  "1",
+        "text_cn":  "여기가 세 번째 층이야. 정말 어두운 곳이네.",
+        "text_en":  "Here is the third layer; it\u0027s such a dim place",
+        "text_jp":  "ここが第三層。暗いところだね。"
+    },
+    {
+        "ID":  106,
+        "dialogName":  "ch3",
+        "image":  "1",
+        "text_cn":  "거대한 탑에서 빛줄기가 제각각의 방향으로 뻗어 나오고 있어.",
+        "text_en":  "The beam shoots from the giant tower in inconsistent directions.",
+        "text_jp":  "巨大な塔から光が、バラバラな方向に伸びてる。"
+    },
+    {
+        "ID":  107,
+        "dialogName":  "ch3",
+        "image":  "4",
+        "text_cn":  "계속해서 탐색해 볼까?",
+        "text_en":  "Should I continue exploring? ",
+        "text_jp":  "このまま探しに行こうか。"
+    },
+    {
+        "ID":  108,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  109,
+        "dialogName":  "ch4",
+        "image":  "1",
+        "text_cn":  "긴 밤을 지나 드디어 도착했어!",
+        "text_en":  "After traversing the long night, we have finally arrived!",
+        "text_jp":  "長い夜を越えて、ここに着いた！"
+    },
+    {
+        "ID":  110,
+        "dialogName":  "ch4",
+        "image":  "2",
+        "text_cn":  "여기 분위기가 정말 마음에 들어. 이 이상한 나무들을 좀 봐!",
+        "text_en":  "I love the atmosphere here—just look at these strange trees!",
+        "text_jp":  "この雰囲気好き。見て、変な木がいっぱい！"
+    },
+    {
+        "ID":  111,
+        "dialogName":  "ch4",
+        "image":  "1",
+        "text_cn":  "이제 기본적인 세계선 이론을 배웠으니, 더 높은 곳으로 나아갈 시간이야!",
+        "text_en":  "I’ve learnt basic Worldline Theories now—time to push further upward!",
+        "text_jp":  "世界線の基本はもうわかった。もっと上を目指そう！"
+    },
+    {
+        "ID":  112,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  113,
+        "dialogName":  "ch5",
+        "image":  "4",
+        "text_cn":  "상황이 생각보다 단순하지 않은 것 같아... 모든 것이 기괴한 색을 띠고 있어.",
+        "text_en":  "It seems things are not as simple as they appear… Everything here is in a eerie color.",
+        "text_jp":  "なんでも変な色になってる。簡単じゃなさそう……"
+    },
+    {
+        "ID":  114,
+        "dialogName":  "ch5",
+        "image":  "4",
+        "text_cn":  "그래도 무서울 건 없다고 믿어, 그치?",
+        "text_en":  " Yet, I believe there is nothing to fear, right?",
+        "text_jp":  "怖いものなんてない……よね。"
+    },
+    {
+        "ID":  115,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  116,
+        "dialogName":  "ch6",
+        "image":  "1",
+        "text_cn":  "와, 여기가 세상에서 가장 높은 곳이구나!",
+        "text_en":  "And here is the highest place of the world!",
+        "text_jp":  "わあ、ここが世界でいちばん高いところだ！"
+    },
+    {
+        "ID":  117,
+        "dialogName":  "ch6",
+        "image":  "1",
+        "text_cn":  "저게 보여?",
+        "text_en":  "Do you see that?",
+        "text_jp":  "あれ、見える？"
+    },
+    {
+        "ID":  118,
+        "dialogName":  "ch6",
+        "image":  "1",
+        "text_cn":  "어쩌면 저게 이 세상의 신일지도 몰라……",
+        "text_en":  "Maybe that is the God of the world……",
+        "text_jp":  "あれがこの世界の神様……かも。"
+    },
+    {
+        "ID":  119,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  120,
+        "dialogName":  "boxsplitmerge",
+        "image":  "4",
+        "text_cn":  "분열된 나 자신과 마찬가지로, 같은 조상으로부터 분열된 상자들은 [융합]하게 돼.",
+        "text_en":  "As same as splitted myselves, boxes splitted from the same ancestor will [Merge]",
+        "text_jp":  "分裂した私と同じで、同じ元から分裂した箱同士は[融合]するんだ。"
+    },
+    {
+        "ID":  121,
+        "dialogName":  "boxsplitmerge",
+        "image":  "1",
+        "text_cn":  "이 말은 즉, 서로 [중첩]될 수 없다는 뜻이야.",
+        "text_en":  "This means they cannot [Superposition]",
+        "text_jp":  "つまりお互いに[重ね合わせ]にはなれないってこと。"
+    },
+    {
+        "ID":  122,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  123,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "…",
+        "text_en":  "…",
+        "text_jp":  "……"
+    },
+    {
+        "ID":  124,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "결론부터 말하자면, 신은 존재하지 않아.",
+        "text_en":  "To sum up, the god DO NOT exist.",
+        "text_jp":  "結論から言うと、神様はいない。"
+    },
+    {
+        "ID":  125,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "이 세상은 컴퓨터로 시뮬레이션된 세상이야.",
+        "text_en":  "The world is simulated by computer.",
+        "text_jp":  "この世界はコンピュータでシミュレーションされてるの。"
+    },
+    {
+        "ID":  126,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "그리고 넌 프로세스처럼 fork 명령어를 반복적으로 실행해서 자신의 복제본을 만드는 캐릭터를 연기하고 있는 거야.",
+        "text_en":  "And you‘re role playing as a character similar to a process that executing fork command repeatly.",
+        "text_jp":  "あなたはプロセスみたいな役を演じて、forkを繰り返して自分のコピーを作ってるだけ。"
+    },
+    {
+        "ID":  127,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "충돌하는 메모리 블록을 수정하면 \u0027쓰기 시 복제(Copy-on-Write)\u0027가 발생해.",
+        "text_en":  "Editions of conflicted memory blocks cause Copy-on-Writes",
+        "text_jp":  "衝突したメモリブロックを書き換えるとコピーオンライトが起きる。"
+    },
+    {
+        "ID":  128,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "또한, 서로 다른 두 객체는 같은 주소 공간을 점유할 수 없어.",
+        "text_en":  "2 different objects cannot occupy  the same address, as well",
+        "text_jp":  "違うオブジェクトは同じアドレスを共有できない。"
+    },
+    {
+        "ID":  129,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "다른 프로세스의 스택 공간으로 오버플로되어 엄청난 혼란을 야기할 가능성도 있지...",
+        "text_en":  "We also have possibilities to overflow into another process\u0027s stack space, causing tremendous chaos...",
+        "text_jp":  "別プロセスのスタックにオーバーフローしちゃう可能性だってある……大変なことになる。"
+    },
+    {
+        "ID":  130,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "…",
+        "text_en":  "…",
+        "text_jp":  "……"
+    },
+    {
+        "ID":  131,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "내가 지금 무슨 말을 하고 있는 거지?",
+        "text_en":  "What am I saying?",
+        "text_jp":  "今何の話してたっけ？"
+    },
+    {
+        "ID":  132,
+        "dialogName":  "ch4fake",
+        "image":  "1",
+        "text_cn":  "그냥 다 잊어버려.",
+        "text_en":  "Just forget them.",
+        "text_jp":  "忘れたほうがいいかも。"
+    },
+    {
+        "ID":  133,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  134,
+        "dialogName":  "collapse",
+        "image":  "1",
+        "text_cn":  "다시 고양이 상자 실험으로 돌아가서...",
+        "text_en":  "Back to our catbox experiment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ",
+        "text_jp":  "さっきの「猫箱」の話に戻ろう。"
+    },
+    {
+        "ID":  135,
+        "dialogName":  "collapse",
+        "image":  "1",
+        "text_cn":  "[유령] 상태의 나는 삶과 죽음의 [중첩] 상태에 있어.",
+        "text_en":  "[Ghost] state has me in a [superposition] of life and death",
+        "text_jp":  "[幽霊]状態の私は生と死の[重ね合わせ]なの。"
+    },
+    {
+        "ID":  136,
+        "dialogName":  "collapse",
+        "image":  "1",
+        "text_cn":  "신성한 빛이 어둠을 몰ืน히면, 이 둘은 더 이상 공존할 수 없게 돼.",
+        "text_en":  "When divine light dispels the darkness these can no longer coexist.",
+        "text_jp":  "神の光が闇を照らすと、両方はもう共存できなくて、時空が断裂する。"
+    },
+    {
+        "ID":  137,
+        "dialogName":  "collapse",
+        "image":  "4",
+        "text_cn":  "그렇게 해서 타임라인의 균열이 생기는 거지. 과연 어떤 현실로 이어지게 될까?",
+        "text_en":  "Thus causing an timeline fracture. What kind of reality will this lead to?",
+        "text_jp":  "どんな現実に繋がっていくんだろう。"
+    },
+    {
+        "ID":  138,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  139,
+        "dialogName":  "collapse2",
+        "image":  "1",
+        "text_cn":  "[중첩] 상태의 물체는 빛을 받으면 그중 하나의 상태로 붕괴해.",
+        "text_en":  "An object in a [superposition] state, upon receiving light, will collapse into one of the states.",
+        "text_jp":  "[重ね合わせ]のものが光を受けると、どちらか一方の状態に収束する。"
+    },
+    {
+        "ID":  140,
+        "dialogName":  "collapse2",
+        "image":  "1",
+        "text_cn":  "상자의 [중첩] 상태 또한 이와 같이 작동합니다.",
+        "text_en":  "The box\u0027s [superposition] state also works as this.",
+        "text_jp":  "箱の[重ね合わせ]も同じ。"
+    },
+    {
+        "ID":  141,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  142,
+        "dialogName":  "ghost",
+        "image":  "7",
+        "text_cn":  "세타는 아무도 눈치채지 못한 구석, 어둠 속에서 죽었습니다.",
+        "text_en":  "Theta died in darkness, in an unnoticed corner.",
+        "text_jp":  "茜塔は闇の中で、誰にも気づかれない片隅で消えた。"
+    },
+    {
+        "ID":  143,
+        "dialogName":  "ghost",
+        "image":  "7",
+        "text_cn":  "다행히 신께서도 이를 알아차리지 못하신 것 같아, 그녀는 이제 [유령] 상태로 움직일 수 있게 되었습니다.",
+        "text_en":  "Fortunately it seems God did not perceive this, so that now she could move as a [Ghost].",
+        "text_jp":  "幸い神様も気づかなかったらしく、彼女は[幽霊]のまま動き続けられた。"
+    },
+    {
+        "ID":  144,
+        "dialogName":  "ghost",
+        "image":  "7",
+        "text_cn":  "지금 장난하는 거예요?",
+        "text_en":  "Are you kidding me?",
+        "text_jp":  "ありえないでしょ？"
+    },
+    {
+        "ID":  145,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  146,
+        "dialogName":  "ice",
+        "image":  "2",
+        "text_cn":  "와, [얼음]이다!",
+        "text_en":  "Wow, it\u0027s [Ice]",
+        "text_jp":  "わあ、[氷]だ。"
+    },
+    {
+        "ID":  147,
+        "dialogName":  "ice",
+        "image":  "2",
+        "text_cn":  "내 스케이트 실력을 보여줄 때가 됐군.",
+        "text_en":  "Time for me to show some skating skills.",
+        "text_jp":  "スケートの腕前、見せてあげる！"
+    },
+    {
+        "ID":  148,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  149,
+        "dialogName":  "lock",
+        "image":  "1",
+        "text_cn":  "이 [열쇠]와 [자물쇠]들을 봐, 정말 거대해!",
+        "text_en":  "Look at these [Keys] and [Locks], they are huge!",
+        "text_jp":  "見て、この[鍵]と[錠前]、でっかい！"
+    },
+    {
+        "ID":  150,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  151,
+        "dialogName":  "merge",
+        "image":  "1",
+        "text_cn":  "만약 내가 내 분신과 같은 위치에 있게 된다면",
+        "text_en":  "If I stay at the same position with my clone",
+        "text_jp":  "自分のコピーと同じマスにいると、"
+    },
+    {
+        "ID":  152,
+        "dialogName":  "merge",
+        "image":  "1",
+        "text_cn":  "가만히 서 있을 때 위치가 겹치기 때문에 [융합]이 일어납니다.",
+        "text_en":  "[Merging] occurs because their positions overlap when staning still.",
+        "text_jp":  "コピー同士が[融合]しちゃう。"
+    },
+    {
+        "ID":  153,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  154,
+        "dialogName":  "mistake",
+        "image":  "3",
+        "text_cn":  "흠... 여기서 분열하는 건 현명하지 못한 것 같아.",
+        "text_en":  "Hmm... Maybe splitting here isn\u0027t wise",
+        "text_jp":  "ここで分裂するのはちょっとまずいかも。"
+    },
+    {
+        "ID":  155,
+        "dialogName":  "mistake",
+        "image":  "3",
+        "text_cn":  "주변에 공간이 충분하지 않아.",
+        "text_en":  "Not enough space around",
+        "text_jp":  "周りにスペースが足りないんだ。"
+    },
+    {
+        "ID":  156,
+        "dialogName":  "mistake",
+        "image":  "1",
+        "text_cn":  "[\u003ckey_undo\u003e]를 눌러 되돌리고 위치를 다시 생각해보자.",
+        "text_en":  "Let\u0027s press [\u003ckey_undo\u003e] to undo and reconsider positioning",
+        "text_jp":  "[\u003ckey_undo\u003e]で戻して、分裂する場所を考え直そう。"
+    },
+    {
+        "ID":  157,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  158,
+        "dialogName":  "odd",
+        "image":  "4",
+        "text_cn":  "방금 그 시도에서 흥미로운 점을 발견했어...",
+        "text_en":  "That trial run revealed something curious...",
+        "text_jp":  "さっきの試練で、なんか面白いことがわかった。"
+    },
+    {
+        "ID":  159,
+        "dialogName":  "odd",
+        "image":  "1",
+        "text_cn":  "이동 패턴 때문에 내 분신들은 항상 [홀수] 칸만큼 떨어져 있게 돼.",
+        "text_en":  "Movement patterns keep my clones always [Odd Number] squares apart",
+        "text_jp":  "動き方のせいで、分身同士はいつも[奇数]マス離れてる。"
+    },
+    {
+        "ID":  160,
+        "dialogName":  "odd",
+        "image":  "1",
+        "text_cn":  "맵이 체스판이라면, 내 분신들은 항상 [같은 색]의 칸을 차지하게 될 거야.",
+        "text_en":  "If the map were a chessboard, my clones would always occupy [Same Colored] grids",
+        "text_jp":  "マップを将棋盤だと思うと、分身はいつも[同じ色]のマスにいるの。"
+    },
+    {
+        "ID":  161,
+        "dialogName":  "odd",
+        "image":  "1",
+        "text_cn":  "특별한 상황이 발생하지 않는 한 말이지...",
+        "text_en":  "Unless... special circumstances occur",
+        "text_jp":  "ただし……特別なことが起きない限り。"
+    },
+    {
+        "ID":  162,
+        "dialogName":  "odd",
+        "image":  "2",
+        "text_cn":  "[\u003ckey_grid\u003e]를 누르면 그리드 표시를 전환할 수 있어. 패턴 분석에 도움이 될 거야!",
+        "text_en":  "Pressing [\u003ckey_grid\u003e] toggles grid display - might help pattern analysis!",
+        "text_jp":  "[\u003ckey_grid\u003e]で将棋盤みたいなグリッドを出せる。分析の役に立つかも！"
+    },
+    {
+        "ID":  163,
+        "dialogName":  "odd",
+        "image":  "1",
+        "text_cn":  "설정 패널에서 그리드의 기본 표시 상태를 변경할 수 있어.",
+        "text_en":  "You can edit the default show state of grid in setting panel",
+        "text_jp":  "設定でグリッドの初期表示も変えられるよ。"
+    },
+    {
+        "ID":  164,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  165,
+        "dialogName":  "earlysplit",
+        "image":  "4",
+        "text_cn":  "이봐, 상자가 위험하다고 말했잖아!",
+        "text_en":  "Hey, I\u0027ve told you that boxes are DANGEROUS!",
+        "text_jp":  "ほら、箱は危ないって言ったでしょ！"
+    },
+    {
+        "ID":  166,
+        "dialogName":  "earlysplit",
+        "image":  "4",
+        "text_cn":  "두 군데에서 두 방향으로 상자를 밀어서 [충돌]이 발생했어!",
+        "text_en":  "I pushed a box at 2 positions with 2 directions, which caused an [Conflict]!",
+        "text_jp":  "二箇所から二方向に箱を押しちゃって、[衝突]が起きた！"
+    },
+    {
+        "ID":  167,
+        "dialogName":  "earlysplit",
+        "image":  "4",
+        "text_cn":  "이 세계선은 그런 오차를 허용하지 않아 [세계선 단절]이 일어났어",
+        "text_en":  "This worldline can not tolerate such deviation thus triggers a [Timeline Fracture]",
+        "text_jp":  "この世界線はそんなズレを許せなくて、[世界線断裂]が起きた。"
+    },
+    {
+        "ID":  168,
+        "dialogName":  "earlysplit",
+        "image":  "1",
+        "text_cn":  "배우기에는 조금 이를지도 모르겠지만, 이걸로 퍼즐을 풀 수 있는 방법이 있을지도 몰라",
+        "text_en":  "It might be a little early to learn this, but perhaps there\u0027s a chance to use it to solve the puzzles?",
+        "text_jp":  "今はまだちょっと早いかもだけど、これを使って試練を抜けられるかも？"
+    },
+    {
+        "ID":  169,
+        "dialogName":  "earlysplit",
+        "image":  "1",
+        "text_cn":  "[\u003ckey_tab\u003e]을 눌러 세계선 사이를 전환해 봐",
+        "text_en":  "Press [\u003ckey_tab\u003e] to toggle between timelines",
+        "text_jp":  "[\u003ckey_tab\u003e]で別の世界線に切り替えられるよ。"
+    },
+    {
+        "ID":  170,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  171,
+        "dialogName":  "breakdown",
+        "image":  "4",
+        "text_cn":  "방금 무슨 일이 일어난 거지?",
+        "text_en":  "What\u0027s happened?",
+        "text_jp":  "今何が起きた？"
+    },
+    {
+        "ID":  172,
+        "dialogName":  "breakdown",
+        "image":  "4",
+        "text_cn":  "상자를 두 방향으로 [동시에] 밀어버렸어!",
+        "text_en":  "I pushed a box in 2 directions [simultaneously]!",
+        "text_jp":  "一つの箱を[同時に]二方向に押しちゃった！"
+    },
+    {
+        "ID":  173,
+        "dialogName":  "breakdown",
+        "image":  "4",
+        "text_cn":  "이 세계선은 그런 오차를 허용하지 않아서 [세계선 단절]이 일어났어",
+        "text_en":  "This worldline can not tolerate such deviation, so it triggers a [Timeline Fracture]",
+        "text_jp":  "この世界線はもう許容できなくて、[世界線断裂]が起きて平行な時空が生まれた。"
+    },
+    {
+        "ID":  174,
+        "dialogName":  "breakdown",
+        "image":  "1",
+        "text_cn":  "이제 평행 세계선의 나 자신들은 서로 간섭할 수 없게 됐어!",
+        "text_en":  "Myselves in parallel worldlines can not interfer each others now!",
+        "text_jp":  "こうして二本の世界線の私は、もうお互いに干渉しない。"
+    },
+    {
+        "ID":  175,
+        "dialogName":  "breakdown",
+        "image":  "1",
+        "text_cn":  "상자가 위험하다고 말했잖아.",
+        "text_en":  "I\u0027ve told you that boxes are DANGEROUS.",
+        "text_jp":  "やっぱり箱は危ないね。"
+    },
+    {
+        "ID":  176,
+        "dialogName":  "breakdown",
+        "image":  "2",
+        "text_cn":  "[\u003ckey_tab\u003e]을 눌러 세계선 사이를 전환해 봐",
+        "text_en":  "Try pressing [\u003ckey_tab\u003e] to toggle between timelines",
+        "text_jp":  "[\u003ckey_tab\u003e]で世界線を切り替えてみて。"
+    },
+    {
+        "ID":  177,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  178,
+        "dialogName":  "tab",
+        "image":  "1",
+        "text_cn":  "두 세계선에서 각각 광선을 점유했을 때, 현재 세계선 시점에서는 다른 세계선이 아직 완료되지 않은 상태일 수 있어",
+        "text_en":  "When have occupied the beams over 2 worldlines, you may find that the other timeline is still unfinished from your current view",
+        "text_jp":  "二本の世界線でそれぞれ光を占めると、今の世界線から見るともう一方がまだやりかけの時間だったりする。"
+    },
+    {
+        "ID":  179,
+        "dialogName":  "tab",
+        "image":  "1",
+        "text_cn":  "[\u003ckey_tab\u003e]을 눌러 더 나중의 세계선으로 전환하면, 즉시 완료된 상태로 건너뛸 수 있는 지름길이 있어!",
+        "text_en":  "A quick shortcut is to press [\u003ckey_tab\u003e] to switch to the later timeline, instantly jumping to the completed state!",
+        "text_jp":  "手っ取り早いのは[\u003ckey_tab\u003e]で時間が進んでる世界線に切り替えて、完了した状態に飛ぶこと！"
+    },
+    {
+        "ID":  180,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  181,
+        "dialogName":  "time",
+        "image":  "1",
+        "text_cn":  "[시간]의 존재를 눈치챘니?",
+        "text_en":  "Have you noticed the existence of [time]?",
+        "text_jp":  "[時間]の存在、気づいた？"
+    },
+    {
+        "ID":  182,
+        "dialogName":  "time",
+        "image":  "2",
+        "text_cn":  "세계선 단절 이후의 세계선들은 서로 다른 시간대에 놓여 있어.",
+        "text_en":  "Worldlines after timeline fracture are on different points of times.",
+        "text_jp":  "[世界線断裂]のあと、世界線ごとに時間の進み方が違う。"
+    },
+    {
+        "ID":  183,
+        "dialogName":  "time",
+        "image":  "1",
+        "text_cn":  "혼란스러울 때는 회중시계가 도움이 될 거야!",
+        "text_en":  "The pocket watch is useful when you feel confused!",
+        "text_jp":  "迷ったら懐中時計を見てね！"
+    },
+    {
+        "ID":  184,
+        "dialogName":  "time",
+        "image":  "1",
+        "text_cn":  "또한 [\u003ckey_scroll\u003e]을 사용해 확대 또는 축소하여 모든 세계선의 상태를 확인할 수 있어",
+        "text_en":  "You can also use [\u003ckey_scroll\u003e] to zoom in or out and view the status of all worldlines",
+        "text_jp":  "[\u003ckey_scroll\u003e]でズームして、全世界線の様子を見ることもできるよ。"
+    },
+    {
+        "ID":  185,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  186,
+        "dialogName":  "world",
+        "image":  "1",
+        "text_cn":  "심연을 오랫동안 들여다보면, 심연 또한 당신을 들여다본다.",
+        "text_en":  "Wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.",
+        "text_jp":  "深淵を覗く時、深淵もまたあなたを覗いている……。"
+    },
+    {
+        "ID":  187,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  188,
+        "dialogName":  "babel",
+        "image":  "1",
+        "text_cn":  "옛 기록에 따르면, 아주 먼 옛날에는 인간과 상자가 지금처럼 드물지 않았다고 해.",
+        "text_en":  "In ancient time, human and boxes are not as scarce as nowadays.",
+        "text_jp":  "昔の記録だと、大昔は人間も箱も今ほど珍しくなかったらしい。"
+    },
+    {
+        "ID":  189,
+        "dialogName":  "babel",
+        "image":  "4",
+        "text_cn":  "사람들은 상자를 쌓아 하늘에 닿는 탑을 만들었지",
+        "text_en":  "People  stacked boxes to form a tower reaching the sky",
+        "text_jp":  "人々は箱を積み上げて、天に届く塔を作った。"
+    },
+    {
+        "ID":  190,
+        "dialogName":  "babel",
+        "image":  "1",
+        "text_cn":  "이것이 신의 영역을 침범했고, 신은 신벌을 내려 시공간을 산산조각 냈어.",
+        "text_en":  "This touched the realm of God, who cast down divine punishment and fractured the time and space.",
+        "text_jp":  "それが神の領域に触れ、神罰が下り、時空が砕けた。"
+    },
+    {
+        "ID":  191,
+        "dialogName":  "babel",
+        "image":  "1",
+        "text_cn":  "사람들은 남은 상자들을 차지하기 위해 서로 싸웠고",
+        "text_en":  "People fought over the remaining boxes",
+        "text_jp":  "残った箱を巡って人々は争った。"
+    },
+    {
+        "ID":  192,
+        "dialogName":  "babel",
+        "image":  "1",
+        "text_cn":  "결국, 세상은 바다로 가라앉았다...",
+        "text_en":  "At the end, the world sank into the sea...",
+        "text_jp":  "やがて世界は海に沈んだ……。"
+    },
+    {
+        "ID":  193,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  194,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  195,
+        "dialogName":  "rabbit",
+        "image":  "4",
+        "text_cn":  "별이 보이니?",
+        "text_en":  "Can you see the star?",
+        "text_jp":  "星、見える？"
+    },
+    {
+        "ID":  196,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  197,
+        "dialogName":  "wallmove",
+        "image":  "4",
+        "text_cn":  "와, 이 벽들은 내부가 비어 있어!",
+        "text_en":  "Wow, these walls are empty inside!",
+        "text_jp":  "わあ、壁の中は空洞だ！"
+    },
+    {
+        "ID":  198,
+        "dialogName":  "wallmove",
+        "image":  "1",
+        "text_cn":  "안에서 움직일 수 있지만, 너무 어두워!",
+        "text_en":  "I can move inside them, but its so dark!",
+        "text_jp":  "中を移動できる！でも暗い～！"
+    },
+    {
+        "ID":  199,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  200,
+        "dialogName":  "travel",
+        "image":  "4",
+        "text_cn":  "잠깐! 여기가 어디지?",
+        "text_en":  "Wait! Where am I?",
+        "text_jp":  "ちょっと待って、ここどこ？"
+    },
+    {
+        "ID":  201,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  202,
+        "dialogName":  "ship",
+        "image":  "4",
+        "text_cn":  "세계선의 경계를 넘을 때 내 몸에는 어떤 일이 일어나는 걸까?",
+        "text_en":  "What happens on my body when crossing the border of timeline?",
+        "text_jp":  "世界線の境界を越えるとき、私の体に何が起きてる？"
+    },
+    {
+        "ID":  203,
+        "dialogName":  "ship",
+        "image":  "4",
+        "text_cn":  "이동 전후의 나는 같은 사람일까?",
+        "text_en":  "Am I the same person before and after travelling? ",
+        "text_jp":  "越える前と越えた後、同じ私でいられる？"
+    },
+    {
+        "ID":  204,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  205,
+        "dialogName":  "startloop",
+        "image":  "4",
+        "text_cn":  "안 돼! 멈출 수 없어!",
+        "text_en":  "Oh no! I can\u0027t stop!",
+        "text_jp":  "あ、止まらない！"
+    },
+    {
+        "ID":  206,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  207,
+        "dialogName":  "weight",
+        "image":  "1",
+        "text_cn":  "내 몸무게?",
+        "text_en":  "My body weight?",
+        "text_jp":  "私の体重？"
+    },
+    {
+        "ID":  208,
+        "dialogName":  "weight",
+        "image":  "3",
+        "text_cn":  "그건 비밀이야!",
+        "text_en":  "That\u0027s a secret!",
+        "text_jp":  "内緒！"
+    },
+    {
+        "ID":  209,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  210,
+        "dialogName":  "loop",
+        "image":  "1",
+        "text_cn":  "만약 세계선이 [무한 루프]에 진입한다면, 결국 어디에 도달하게 될까?",
+        "text_en":  "What if a worldline enter an [Infinity Loop], where would it finally arrive?",
+        "text_jp":  "世界線が[無限ループ]に入ったら、その先はどこに行き着くんだろう。"
+    },
+    {
+        "ID":  211,
+        "dialogName":  "loop",
+        "image":  "4",
+        "text_cn":  "무한한 미래?",
+        "text_en":  "The infinite future?",
+        "text_jp":  "無限の未来？"
+    },
+    {
+        "ID":  212,
+        "dialogName":  "loop",
+        "image":  "3",
+        "text_cn":  "그 말은 더 이상 그것을 제어하거나 전환할 수 없다는 뜻이겠지.",
+        "text_en":  "Which means I could not control or switch to it anymore.",
+        "text_jp":  "もう制御も切り替えもできなくなるってこと？"
+    },
+    {
+        "ID":  213,
+        "dialogName":  "loop",
+        "image":  "4",
+        "text_cn":  "비록 아직 어떤 기회가 있을지도 모르지만... 하지만 어떻게?",
+        "text_en":  "Though there still might be some chances … but how?",
+        "text_jp":  "まだ何か手があるかも……どうすれば？"
+    },
+    {
+        "ID":  214,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  215,
+        "dialogName":  "dimension",
+        "image":  "2",
+        "text_cn":  "어떤 세계선도 고립된 섬이 아니다!",
+        "text_en":  "No worldline is an isolated island!",
+        "text_jp":  "世界線に孤島なんてない！"
+    },
+    {
+        "ID":  216,
+        "dialogName":  "dimension",
+        "image":  "4",
+        "text_cn":  "만약 충돌 구조에 여러 세계선의 대상이 포함되어 있다면",
+        "text_en":  "If a confliction structure involves object from multi-worldines",
+        "text_jp":  "衝突に複数の世界線のものが関わってると、"
+    },
+    {
+        "ID":  217,
+        "dialogName":  "dimension",
+        "image":  "4",
+        "text_cn":  "충돌은 그것들을 잇는 선에 직교하는 방향으로 이 세계선들을 동시에 분리시키는 것처럼 보인다.",
+        "text_en":  "The conflicts appear to simultaneously split these worldlines, along a direction orthogonal to their connection.",
+        "text_jp":  "衝突はそれらを結ぶ線に[直交]する方向に、世界線をまとめて分裂させるみたい。"
+    },
+    {
+        "ID":  218,
+        "dialogName":  "dimension",
+        "image":  "2",
+        "text_cn":  "이로 인해 세계선의 완전히 새로운 차원이 생성된다!",
+        "text_en":  "This cause a brand new dimension of worldlines!",
+        "text_jp":  "新しい世界線の次元が生まれる。"
+    },
+    {
+        "ID":  219,
+        "dialogName":  "dimension",
+        "image":  "2",
+        "text_cn":  "새로운 차원의 세계선 사이를 전환하려면 [\u003ckey_shift\u003e]를 사용해라",
+        "text_en":  "Use [\u003ckey_shift\u003e] to switch between worldlines at the new dimension",
+        "text_jp":  "[\u003ckey_shift\u003e]で新しい次元の世界線を切り替えよう。"
+    },
+    {
+        "ID":  220,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  221,
+        "dialogName":  "destiny",
+        "image":  "4",
+        "text_cn":  "나는 빛의 원점을 보았다...",
+        "text_en":  "I beheld the origin of the light…",
+        "text_jp":  "光の原点が見えた……。"
+    },
+    {
+        "ID":  222,
+        "dialogName":  "destiny",
+        "image":  "1",
+        "text_cn":  "과거에서 미래로, 그것은 점차 범위를 넓혀 빛의 원뿔을 형성했다.",
+        "text_en":  "Spanning from the past into the future, it gradually expanded its reach, forming a cone of light.",
+        "text_jp":  "過去から未来へ、だんだん広がって光の円錐を作っている。"
+    },
+    {
+        "ID":  223,
+        "dialogName":  "destiny",
+        "image":  "1",
+        "text_cn":  "모든 것은 그 안에서 태어나고 소멸한다.",
+        "text_en":  "All things birth and perish within it.",
+        "text_jp":  "すべての出来事はその中で生まれ、消える。"
+    },
+    {
+        "ID":  224,
+        "dialogName":  "destiny",
+        "image":  "4",
+        "text_cn":  "만약 내가 빛의 원뿔의 원점에 도달할 수 있다면... 아마도 세상의 운명을 바꿀 수 있을지도 모른다.",
+        "text_en":  "If I could reach the origin point of the light cone... perhaps the world\u0027s fate could be reversed.",
+        "text_jp":  "光錐の原点に辿り着けたら……世界の運命をひっくり返せるかも。"
+    },
+    {
+        "ID":  225,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  226,
+        "dialogName":  "Star101",
+        "image":  "1",
+        "text_cn":  "빨간 포크",
+        "text_en":  "Red Fork",
+        "text_jp":  "赤い叉"
+    },
+    {
+        "ID":  227,
+        "dialogName":  "Star101",
+        "image":  "1",
+        "text_cn":  "(이건 어디에 쓰는 거지?)",
+        "text_en":  "(What\u0027s this for?)",
+        "text_jp":  "（何に使うの？）"
+    },
+    {
+        "ID":  228,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  229,
+        "dialogName":  "Star102",
+        "image":  "1",
+        "text_cn":  "파란 포크",
+        "text_en":  "Blue Fork",
+        "text_jp":  "青い叉"
+    },
+    {
+        "ID":  230,
+        "dialogName":  "Star102",
+        "image":  "1",
+        "text_cn":  "(이건 어디에 쓰는 거지?)",
+        "text_en":  "(What\u0027s this for?)",
+        "text_jp":  "（何に使うの？）"
+    },
+    {
+        "ID":  231,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  232,
+        "dialogName":  "Star103",
+        "image":  "1",
+        "text_cn":  "초록 포크",
+        "text_en":  "Green Fork",
+        "text_jp":  "緑の叉"
+    },
+    {
+        "ID":  233,
+        "dialogName":  "Star103",
+        "image":  "1",
+        "text_cn":  "(이건 어디에 쓰는 거지?)",
+        "text_en":  "(What\u0027s this for?)",
+        "text_jp":  "（何に使うの？）"
+    },
+    {
+        "ID":  234,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  235,
+        "dialogName":  "Star104",
+        "image":  "1",
+        "text_cn":  "노란 포크",
+        "text_en":  "Yellow Fork",
+        "text_jp":  "黄色い叉"
+    },
+    {
+        "ID":  236,
+        "dialogName":  "Star104",
+        "image":  "1",
+        "text_cn":  "(이건 어디에 쓰는 거지?)",
+        "text_en":  "(What\u0027s this for?)",
+        "text_jp":  "（何に使うの？）"
+    },
+    {
+        "ID":  237,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  238,
+        "dialogName":  "Star105",
+        "image":  "1",
+        "text_cn":  "청록 포크",
+        "text_en":  "Cyan Fork",
+        "text_jp":  "シアンの叉"
+    },
+    {
+        "ID":  239,
+        "dialogName":  "Star105",
+        "image":  "1",
+        "text_cn":  "(이건 어디에 쓰는 거지?)",
+        "text_en":  "(What\u0027s this for?)",
+        "text_jp":  "（何に使うの？）"
+    },
+    {
+        "ID":  240,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  241,
+        "dialogName":  "Star1",
+        "image":  "1",
+        "text_cn":  "별 #1",
+        "text_en":  "Star #1",
+        "text_jp":  "1番の星"
+    },
+    {
+        "ID":  242,
+        "dialogName":  "Star1",
+        "image":  "1",
+        "text_cn":  "왼쪽으로 들어가서 오른쪽으로 나온다",
+        "text_en":  "Left In, Right Out",
+        "text_jp":  "左から入って、右から出る"
+    },
+    {
+        "ID":  243,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  244,
+        "dialogName":  "Star2",
+        "image":  "1",
+        "text_cn":  "별 #2",
+        "text_en":  "Star #2",
+        "text_jp":  "2番の星"
+    },
+    {
+        "ID":  245,
+        "dialogName":  "Star2",
+        "image":  "1",
+        "text_cn":  "원하는 만큼",
+        "text_en":  "As Much as You Want",
+        "text_jp":  "欲しいだけ、ある"
+    },
+    {
+        "ID":  246,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  247,
+        "dialogName":  "Star3",
+        "image":  "1",
+        "text_cn":  "별 #3",
+        "text_en":  "Star #3",
+        "text_jp":  "3番の星"
+    },
+    {
+        "ID":  248,
+        "dialogName":  "Star3",
+        "image":  "1",
+        "text_cn":  "나는 커다란 빨간 버튼을 누르는 게 좋아",
+        "text_en":  "I Like Pressing Big Red Buttons",
+        "text_jp":  "でっかい赤ボタン押すの好き"
+    },
+    {
+        "ID":  249,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  250,
+        "dialogName":  "Star4",
+        "image":  "1",
+        "text_cn":  "별 #4",
+        "text_en":  "Star #4",
+        "text_jp":  "4番の星"
+    },
+    {
+        "ID":  251,
+        "dialogName":  "Star4",
+        "image":  "1",
+        "text_cn":  "공을 잡아라!",
+        "text_en":  "Catch the Ball!",
+        "text_jp":  "球を受けろ！"
+    },
+    {
+        "ID":  252,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  253,
+        "dialogName":  "Star5",
+        "image":  "1",
+        "text_cn":  "별 #5",
+        "text_en":  "Star #5",
+        "text_jp":  "5番の星"
+    },
+    {
+        "ID":  254,
+        "dialogName":  "Star5",
+        "image":  "1",
+        "text_cn":  "다리가 무너지고 있어",
+        "text_en":  "The Bridge is Breaking down",
+        "text_jp":  "橋が落ちる～！"
+    },
+    {
+        "ID":  255,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  256,
+        "dialogName":  "Star6",
+        "image":  "1",
+        "text_cn":  "별 #6",
+        "text_en":  "Star #6",
+        "text_jp":  "6番の星"
+    },
+    {
+        "ID":  257,
+        "dialogName":  "Star6",
+        "image":  "1",
+        "text_cn":  "시간아, 제발 멈춰줘",
+        "text_en":  "Time, Please Hold Your Pace",
+        "text_jp":  "時間よ、止まれ"
+    },
+    {
+        "ID":  258,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  259,
+        "dialogName":  "Star7",
+        "image":  "1",
+        "text_cn":  "별 #7",
+        "text_en":  "Star #7",
+        "text_jp":  "7番の星"
+    },
+    {
+        "ID":  260,
+        "dialogName":  "Star7",
+        "image":  "1",
+        "text_cn":  "E lucevan le stelle",
+        "text_en":  "E lucevan le stelle",
+        "text_jp":  "今夜は星が煌く"
+    },
+    {
+        "ID":  261,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  262,
+        "dialogName":  "Star8",
+        "image":  "1",
+        "text_cn":  "별 #8",
+        "text_en":  "Star #8",
+        "text_jp":  "8番の星"
+    },
+    {
+        "ID":  263,
+        "dialogName":  "Star8",
+        "image":  "1",
+        "text_cn":  "제4의 벽을 깨라",
+        "text_en":  "Break the 4th wall",
+        "text_jp":  "第四の壁を破れ"
+    },
+    {
+        "ID":  264,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  265,
+        "dialogName":  "Star9",
+        "image":  "1",
+        "text_cn":  "별 #9",
+        "text_en":  "Star #9",
+        "text_jp":  "9番の星"
+    },
+    {
+        "ID":  266,
+        "dialogName":  "Star9",
+        "image":  "1",
+        "text_cn":  "대답하지 마!",
+        "text_en":  "DO NOT REPLY!",
+        "text_jp":  "返事をするな！"
+    },
+    {
+        "ID":  267,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  268,
+        "dialogName":  "Star10",
+        "image":  "1",
+        "text_cn":  "별 #10",
+        "text_en":  "Star #10",
+        "text_jp":  "10番の星"
+    },
+    {
+        "ID":  269,
+        "dialogName":  "Star10",
+        "image":  "1",
+        "text_cn":  "벽에도 귀가 있다",
+        "text_en":  "The Walls Have Eyes",
+        "text_jp":  "壁に目あり"
+    },
+    {
+        "ID":  270,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  271,
+        "dialogName":  "Star11",
+        "image":  "1",
+        "text_cn":  "별 #11",
+        "text_en":  "Star #11",
+        "text_jp":  "11番の星"
+    },
+    {
+        "ID":  272,
+        "dialogName":  "Star11",
+        "image":  "1",
+        "text_cn":  "점선을 따라 잘라주세요",
+        "text_en":  "Please Cut along the Dotted Line",
+        "text_jp":  "点線に沿って切り取れ"
+    },
+    {
+        "ID":  273,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  274,
+        "dialogName":  "Star12",
+        "image":  "1",
+        "text_cn":  "별 #12",
+        "text_en":  "Star #12",
+        "text_jp":  "12番の星"
+    },
+    {
+        "ID":  275,
+        "dialogName":  "Star12",
+        "image":  "1",
+        "text_cn":  "세상을 저장하라",
+        "text_en":  "Save the World",
+        "text_jp":  "世界はセーブされた"
+    },
+    {
+        "ID":  276,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  277,
+        "dialogName":  "Star13",
+        "image":  "1",
+        "text_cn":  "별 #13",
+        "text_en":  "Star #13",
+        "text_jp":  "13番の星"
+    },
+    {
+        "ID":  278,
+        "dialogName":  "Star13",
+        "image":  "1",
+        "text_cn":  "2단 점프!",
+        "text_en":  "Double Jump!",
+        "text_jp":  "二段ジャンプ！"
+    },
+    {
+        "ID":  279,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  280,
+        "dialogName":  "Star14",
+        "image":  "1",
+        "text_cn":  "별 #14",
+        "text_en":  "Star #14",
+        "text_jp":  "14番の星"
+    },
+    {
+        "ID":  281,
+        "dialogName":  "Star14",
+        "image":  "1",
+        "text_cn":  "호기심이 고양이를 구한다",
+        "text_en":  "Curiosity Saves the Cat",
+        "text_jp":  "好奇心が猫を救う"
+    },
+    {
+        "ID":  282,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  283,
+        "dialogName":  "Star15",
+        "image":  "1",
+        "text_cn":  "별 #15",
+        "text_en":  "Star #15",
+        "text_jp":  "15番の星"
+    },
+    {
+        "ID":  284,
+        "dialogName":  "Star15",
+        "image":  "1",
+        "text_cn":  "그것은 나의 작은 한 걸음",
+        "text_en":  "That\u0027s One Small Step of Me",
+        "text_jp":  "これは私の小さな一歩"
+    },
+    {
+        "ID":  285,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  286,
+        "dialogName":  "Star16",
+        "image":  "1",
+        "text_cn":  "별 #16",
+        "text_en":  "Star #16",
+        "text_jp":  "16番の星"
+    },
+    {
+        "ID":  287,
+        "dialogName":  "Star16",
+        "image":  "1",
+        "text_cn":  "세계가 탄생하기 전의 이야기",
+        "text_en":  "The Story before the Birth of the World",
+        "text_jp":  "世界誕生より前の物語"
+    },
+    {
+        "ID":  288,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  289,
+        "dialogName":  "Star17",
+        "image":  "1",
+        "text_cn":  "별 #17",
+        "text_en":  "Star #17",
+        "text_jp":  "17番の星"
+    },
+    {
+        "ID":  290,
+        "dialogName":  "Star17",
+        "image":  "1",
+        "text_cn":  "너와 나, 그 누구도 존재하지 않는 곳",
+        "text_en":  "A Place where neither You nor I Exist",
+        "text_jp":  "君も私もいない場所"
+    },
+    {
+        "ID":  291,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  292,
+        "dialogName":  "Star18",
+        "image":  "1",
+        "text_cn":  "별 #18",
+        "text_en":  "Star #18",
+        "text_jp":  "18番の星"
+    },
+    {
+        "ID":  293,
+        "dialogName":  "Star18",
+        "image":  "1",
+        "text_cn":  "환상 시공간의 복합 분해",
+        "text_en":  "Composite Decomposition of Cyclic Space-Time",
+        "text_jp":  "環状時空の合成分解"
+    },
+    {
+        "ID":  294,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  295,
+        "dialogName":  "Star19",
+        "image":  "1",
+        "text_cn":  "별 #0",
+        "text_en":  "Star #0",
+        "text_jp":  "0番の星"
+    },
+    {
+        "ID":  296,
+        "dialogName":  "Star19",
+        "image":  "1",
+        "text_cn":  "세상에서 가장 외로운 상자",
+        "text_en":  "The Loneliest Box in the World",
+        "text_jp":  "世界でいちばん孤独な箱"
+    },
+    {
+        "ID":  297,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  298,
+        "dialogName":  "Star201",
+        "image":  "1",
+        "text_cn":  "회중시계",
+        "text_en":  "Watch",
+        "text_jp":  "懐中時計"
+    },
+    {
+        "ID":  299,
+        "dialogName":  "Star201",
+        "image":  "1",
+        "text_cn":  "이제 시간을 관측하고 기록할 수 있어!",
+        "text_en":  "You can observe time and record now!",
+        "text_jp":  "もう時間を観測して記録できるよ！"
+    },
+    {
+        "ID":  300,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  301,
+        "dialogName":  "Star205",
+        "image":  "1",
+        "text_cn":  "야간 투시 포션",
+        "text_en":  "Night Vision Potion",
+        "text_jp":  "夜視の薬"
+    },
+    {
+        "ID":  302,
+        "dialogName":  "Star205",
+        "image":  "1",
+        "text_cn":  "이제 처음부터 어둠 속을 볼 수 있어",
+        "text_en":  "You can now see through dark from beginning",
+        "text_jp":  "最初から闇の中が見えるようになった！"
+    },
+    {
+        "ID":  303,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  304,
+        "dialogName":  "Star206",
+        "image":  "1",
+        "text_cn":  "신의 열쇠",
+        "text_en":  "Divine Key",
+        "text_jp":  "神の鍵"
+    },
+    {
+        "ID":  305,
+        "dialogName":  "Star206",
+        "image":  "1",
+        "text_cn":  "(이게 어디에 쓰이는 건지 알고 있어!)",
+        "text_en":  "(I know what is this for!)",
+        "text_jp":  "（何に使うか、わかってるはず！）"
+    },
+    {
+        "ID":  306,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  307,
+        "dialogName":  "skip",
+        "image":  "1",
+        "text_cn":  "누군가 말해주길, 번호가 매겨진 모든 레벨은 발견했을 때 풀 수 있다고 하더군",
+        "text_en":  "Someone told me that all the number ordered levels can be solved when you find them",
+        "text_jp":  "誰かが教えてくれた：番号のついた謎は、見つけた時点で解けるようになってるって。"
+    },
+    {
+        "ID":  308,
+        "dialogName":  "skip",
+        "image":  "1",
+        "text_cn":  "하지만 수수께끼가 너무 어렵게 느껴진다면, 메뉴를 열어 월드 맵으로 돌아갈 수 있어",
+        "text_en":  "But if you feel a puzzle is too tricky, you can open the menu and return to the World Map",
+        "text_jp":  "でもどうしても解けなかったら、メニューからワールドに戻れるよ。"
+    },
+    {
+        "ID":  309,
+        "dialogName":  "skip",
+        "image":  "1",
+        "text_cn":  "그러면 다음 번호의 수수께끼가 해금될 거야",
+        "text_en":  "This will unlock the puzzle with the subsequent order",
+        "text_jp":  "そうすると次の番号の謎が開くの。"
+    },
+    {
+        "ID":  310,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  311,
+        "dialogName":  "pyramid",
+        "image":  "1",
+        "text_cn":  "어떡해! 그녀가 어떻게 저기에 들어갔지?",
+        "text_en":  "Oh no! How did she get in there?",
+        "text_jp":  "え、どうやって入ったの!?"
+    },
+    {
+        "ID":  312,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  313,
+        "dialogName":  "splitbox",
+        "image":  "1",
+        "text_cn":  "상자가 나를 조종하는 걸까, 아니면 반대로 내가 상자들을 조종하는 걸까",
+        "text_en":  "Is the box controlling me, or on the contrary I\u0027m controlling them",
+        "text_jp":  "箱が私を操ってるの、私が箱を操ってるの？"
+    },
+    {
+        "ID":  314,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  315,
+        "dialogName":  "limbo",
+        "image":  "4",
+        "text_cn":  "존재하느냐, 존재하지 않느냐... 아니면 [동시에] 일어나는 일일까?",
+        "text_en":  "To be, or not to be... or to happen [simultaneously]?",
+        "text_jp":  "生きるか、滅びるか……それとも[同時に]？"
+    },
+    {
+        "ID":  316,
+        "dialogName":  "limbo",
+        "image":  "1",
+        "text_cn":  "그게 어떻게 가능해?",
+        "text_en":  "How is that possible?",
+        "text_jp":  "そんなのあり？"
+    },
+    {
+        "ID":  317,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  318,
+        "dialogName":  "shadowbox",
+        "image":  "1",
+        "text_cn":  "이것은 상자의 잔상, 죽은 상자야.",
+        "text_en":  "This is the afterimage of the box, the deceased box.",
+        "text_jp":  "箱の残像、死んだ箱。"
+    },
+    {
+        "ID":  319,
+        "dialogName":  "shadowbox",
+        "image":  "1",
+        "text_cn":  "상자 행성에서 편히 쉬기를.",
+        "text_en":  "May them rest in peace on the box planet.",
+        "text_jp":  "箱の星で安らかに……。"
+    },
+    {
+        "ID":  320,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  321,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  322,
+        "dialogName":  "newch1",
+        "image":  "4",
+        "text_cn":  "다시 여기로 돌아왔어!",
+        "text_en":  "I\u0027m back here again!",
+        "text_jp":  "またここに戻ってきた！"
+    },
+    {
+        "ID":  323,
+        "dialogName":  "newch1",
+        "image":  "1",
+        "text_cn":  "하지만 다른 길이 있는 것 같아…",
+        "text_en":  "But it seems there is another path…",
+        "text_jp":  "でも別の道がありそう！"
+    },
+    {
+        "ID":  324,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  325,
+        "dialogName":  "entangle",
+        "image":  "1",
+        "text_cn":  "유령 상태의 나는 살아있을 수도 있고 죽어있을 수도 있는 중첩 상태로 존재해.",
+        "text_en":  "The ghost version of me exist in a superposition of being possibly alive or dead.",
+        "text_jp":  "幽霊状態の私は、生きているか死んでいるかの重ね合わせなの。"
+    },
+    {
+        "ID":  326,
+        "dialogName":  "entangle",
+        "image":  "1",
+        "text_cn":  "만약 이 상태에서 내가 [분열]한다면…",
+        "text_en":  "If I [Split] at this condition…",
+        "text_jp":  "この状態で[分裂]すると……"
+    },
+    {
+        "ID":  327,
+        "dialogName":  "entangle",
+        "image":  "1",
+        "text_cn":  "그 결과로 생성된 두 개체는 삶과 죽음에 상관없이 [동일한] 상태를 가져야만 해.",
+        "text_en":  "The two resulting individuals, regardless of life or death, must possess the [identical] state.",
+        "text_jp":  "生まれた二人は、生死どちらにしても[同じ]状態になる。"
+    },
+    {
+        "ID":  328,
+        "dialogName":  "entangle",
+        "image":  "1",
+        "text_cn":  "한쪽의 상태가 결정되는 순간, 위치에 상관없이 다른 쪽의 상태도 즉시 결정될 수 있어!",
+        "text_en":  "At the moment the state of one is determined, the state of the other can be instantaneously determined, regardless of location!",
+        "text_jp":  "片方の状態が決まった瞬間、どこにいようともう片方の状態も決まる！"
+    },
+    {
+        "ID":  329,
+        "dialogName":  "entangle",
+        "image":  "2",
+        "text_cn":  "요약하자면, 우리는 이런 신비로운 원격 작용으로 연결되어 있는 거야!",
+        "text_en":  "In short, we are connected by this kind of mysterious spooky action at a distance!",
+        "text_jp":  "私たちはそんな不思議な超距作用で繋がってるの！"
+    },
+    {
+        "ID":  330,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  331,
+        "dialogName":  "etmove",
+        "image":  "1",
+        "text_cn":  "원격 작용… [양자 얽힘]이라고 부르자.",
+        "text_en":  "The spooky action at a distance… Let me call it [Entanglement]",
+        "text_jp":  "その超距作用……[もつれ]って呼ぼう。"
+    },
+    {
+        "ID":  332,
+        "dialogName":  "etmove",
+        "image":  "1",
+        "text_cn":  "이 세계에서는 더 이상한 힘들이 있을지도 몰라…",
+        "text_en":  "It may has some more strange powers at this world… ",
+        "text_jp":  "この世界ではもっと変な力があるみたい……。"
+    },
+    {
+        "ID":  333,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  334,
+        "dialogName":  "etsplitbox",
+        "image":  "1",
+        "text_cn":  "살아있는 나는 분열을 통해 상자를 복제할 수 있지만, 죽은 나는 할 수 없어!",
+        "text_en":  "The living me can replicate the box through splitting; the deceased me cannot!",
+        "text_jp":  "生きてる私は分裂で箱を複製できる。死んでる方はできない！"
+    },
+    {
+        "ID":  335,
+        "dialogName":  "etsplitbox",
+        "image":  "1",
+        "text_cn":  "따라서 유령 상태의 내가 상자를 분열시킬 때, 새로 생성된 상자의 상태 또한 나와 [얽히게] 돼!",
+        "text_en":  "Therefore, when the me in a ghost state splits a box, the state of the newly generated box also becomes [entangled] with me!",
+        "text_jp":  "だから幽霊状態の私が箱を分裂させると、新しい箱の状態も私と[もつれ]る！"
+    },
+    {
+        "ID":  336,
+        "dialogName":  "etsplitbox",
+        "image":  "1",
+        "text_cn":  "이 상자들은 나의 유령 상태와 비슷한 성질을 가지고 있어서, 얽힌 테두리가 보여.",
+        "text_en":  "These boxes has properties similar to ghost state of me, so they have some entangled frames",
+        "text_jp":  "そんな箱は幽霊みたいな性質を持ってる。もつれた枠が見えるよ。"
+    },
+    {
+        "ID":  337,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  338,
+        "dialogName":  "etsplitbox2",
+        "image":  "1",
+        "text_cn":  "유령 상태의 내가 만든 유령 상자는 나와 [얽혀] 있어!",
+        "text_en":  "Ghost boxes created by ghost state me are [entangled] to me!",
+        "text_jp":  "幽霊の私が作った幽霊の箱は、私と[もつれて]いる！"
+    },
+    {
+        "ID":  339,
+        "dialogName":  "etsplitbox2",
+        "image":  "1",
+        "text_cn":  "즉, 분열된 나의 한쪽 면이 존재하는 것으로 관측되면, 분열된 상자 또한 반드시 존재해야 하며, 반대편의 나와 상자 또한 반드시 존재해야 한다는 뜻이야.",
+        "text_en":  "That is to say, if the split side of me is observed to exist, then the split box must also exist, and the me and the box on the other side must also exist.",
+        "text_jp":  "観測で分裂した片方の私が「いる」と出れば、同時に分裂した箱もいる。もう片方の私と箱も必ずいる。"
+    },
+    {
+        "ID":  340,
+        "dialogName":  "etsplitbox2",
+        "image":  "2",
+        "text_cn":  "반대로, 분열된 쪽의 내가 사라진 것으로 관측되면, 분열된 상자도 사라질 것이고, 반대편의 나와 상자도 즉시 사라질 거야...",
+        "text_en":  "Conversely, if the split side of me is observed to vanish, then the split box will also vanish, and the me and the box on the other side will instantly vanish...",
+        "text_jp":  "逆に、片方の私が「いない」と出れば、分裂した箱も消える。もう片方の私と箱も一瞬で消える……。"
+    },
+    {
+        "ID":  341,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  342,
+        "dialogName":  "ghostboxing",
+        "image":  "1",
+        "text_cn":  "나 자신을 죽이면서 동시에 상자에 들어가는 데 성공했어!",
+        "text_en":  "I managed to kill myself and enter a box at same time!",
+        "text_jp":  "自分を殺しつつ箱に入る、両方同時にやっちゃった！"
+    },
+    {
+        "ID":  343,
+        "dialogName":  "ghostboxing",
+        "image":  "1",
+        "text_cn":  "두 사건의 순서가 불확실하기 때문에, 나는 상자 속의 유령이 되는 거야...",
+        "text_en":  "Owing to the uncertainty of the sequence of two events, I become a ghost in the box… ",
+        "text_jp":  "二つのことがどっちが先か決まらないから、箱の中で幽霊になってる。"
+    },
+    {
+        "ID":  344,
+        "dialogName":  "ghostboxing",
+        "image":  "2",
+        "text_cn":  "그거 흥미롭네",
+        "text_en":  "That is interesting",
+        "text_jp":  "すごいでしょ。"
+    },
+    {
+        "ID":  345,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  346,
+        "dialogName":  "sit",
+        "image":  "2",
+        "text_cn":  "봐! 여기 앉을 수 있어!",
+        "text_en":  "Hey! I can sit here!",
+        "text_jp":  "見て、ここに座れる！"
+    },
+    {
+        "ID":  347,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  348,
+        "dialogName":  "thanks",
+        "image":  "2",
+        "text_cn":  "여기까지 와줘서 고마워!",
+        "text_en":  "Thanks for you to reach here!",
+        "text_jp":  "ここまで遊んでくれてありがとう！"
+    },
+    {
+        "ID":  349,
+        "dialogName":  "thanks",
+        "image":  "1",
+        "text_cn":  "신비로운 세계선 패러독스의 수수께끼 중 하나가 밝혀졌어.",
+        "text_en":  "One of the mysterious worldline paralldoxes has been unveiled.",
+        "text_jp":  "世界線パラドックスの謎、第一層まで解けたね。"
+    },
+    {
+        "ID":  350,
+        "dialogName":  "thanks",
+        "image":  "1",
+        "text_cn":  "정식 버전의 다음 장들에서는 더 깊은 패러독스(6층 이상!)를 발견하게 될 거야!",
+        "text_en":  "In further chapters in the release version, you will discover deeper paradoxes (over 6 layers!)",
+        "text_jp":  "正式版の後の章では、もっと深い謎があるよ——6層まである！"
+    },
+    {
+        "ID":  351,
+        "dialogName":  "thanks",
+        "image":  "2",
+        "text_cn":  "재미있다고 느꼈다면, 위시리스트에 추가하고 친구들에게 추천하는 걸 잊지 마!",
+        "text_en":  "If you feel interesting, don\u0027t forget to add to your wishlist and recommand to your friends!",
+        "text_jp":  "面白かったらウィッシュリスト登録と友達へのおすすめ、よろしくね！"
+    },
+    {
+        "ID":  352,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  353,
+        "dialogName":  "blueribbon",
+        "image":  "1",
+        "text_cn":  "만약 내가 파란색 원색이 포함된 리본을 얻고 싶다면",
+        "text_en":  "If I want to get ribbons with blue primary color",
+        "text_jp":  "ちなみに、青を原色に含むリボンが欲しいなら、"
+    },
+    {
+        "ID":  354,
+        "dialogName":  "blueribbon",
+        "image":  "1",
+        "text_cn":  "레벨을 완료하려면 파란색 홀로그램 투영 광선만을 점유해야 해",
+        "text_en":  "I must only occupy blue holographic projection light beams to complete the level",
+        "text_jp":  "ステージを[青]の投影光だけを占めてクリアしないといけないの。"
+    },
+    {
+        "ID":  355,
+        "dialogName":  "blueribbon",
+        "image":  "1",
+        "text_cn":  "아마 그래서 그것들이 너무 저렴해 보이지 않는 거겠지",
+        "text_en":  "Maybe that make them not too cheap",
+        "text_jp":  "なんか安っぽく見えないようにってことかも。"
+    },
+    {
+        "ID":  356,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  357,
+        "dialogName":  "tabinf",
+        "image":  "4",
+        "text_cn":  "무한 루프에 빠진 세계선으로는 전환할 수 없어!",
+        "text_en":  "I cannot switch to the infinite looping worldline!",
+        "text_jp":  "無限ループに入った世界線には切り替えられない！"
+    },
+    {
+        "ID":  358,
+        "dialogName":  "tabinf",
+        "image":  "1",
+        "text_cn":  "그곳은 이미 무한한 미래로 가버렸어!",
+        "text_en":  "It has gone to the infinite future!",
+        "text_jp":  "あそこはもう無限の未来に行っちゃってる！"
+    },
+    {
+        "ID":  359,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  360,
+        "dialogName":  "ch7",
+        "image":  "1",
+        "text_cn":  "수많은 세계선을 넘어, 마침내 이곳에 도착했어!",
+        "text_en":  "Across countless world-lines, we have reached this place at last!",
+        "text_jp":  "無数の世界線を越えて、やっとここに着いた！"
+    },
+    {
+        "ID":  361,
+        "dialogName":  "ch7",
+        "image":  "1",
+        "text_cn":  "옛 세계들은 결국 시간의 바다에 가라앉겠지만, 어쩌면, 정말 어쩌면, 내가 무언가 바꿀 수 있을지도 몰라",
+        "text_en":  "The worlds of old will eventually submerge in the ocean of time, but maybe, just maybe, I can still make a difference",
+        "text_jp":  "古い世界はいつか時間の海に沈む。それでも、私にできることがあるかも？"
+    },
+    {
+        "ID":  362,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  363,
+        "dialogName":  "story1",
+        "image":  "1",
+        "text_cn":  "당신은 어릴 때부터 두 가지 얼굴을 가지고 있었지.",
+        "text_en":  "You have worn two faces since you were young.",
+        "text_jp":  "あなたは幼い頃から二つの顔を持っていた。"
+    },
+    {
+        "ID":  364,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  365,
+        "dialogName":  "story2",
+        "image":  "1",
+        "text_cn":  "모순은—그것들은 무심코 드러나게 마련이야",
+        "text_en":  "Contradictions—they are exposed inadvertently",
+        "text_jp":  "矛盾は、ふとした隙に露わになる。"
+    },
+    {
+        "ID":  366,
+        "dialogName":  "story2",
+        "image":  "1",
+        "text_cn":  "벽에 얼룩덜룩한 줄무늬를 드리우며",
+        "text_en":  "Casting mottled stripes upon the wall",
+        "text_jp":  "壁にまだらの縞を落とす。"
+    },
+    {
+        "ID":  367,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  368,
+        "dialogName":  "story3",
+        "image":  "1",
+        "text_cn":  "스포트라이트가 떨어질 때,",
+        "text_en":  "When the spotlight falls,",
+        "text_jp":  "スポットライトが落ちたとき、"
+    },
+    {
+        "ID":  369,
+        "dialogName":  "story3",
+        "image":  "1",
+        "text_cn":  "전 세계가 당신에게 선택을 촉구하고 있습니다",
+        "text_en":  "The whole world is urging you to make a choice",
+        "text_jp":  "世界全体があなたに選択を迫る。"
+    },
+    {
+        "ID":  370,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  371,
+        "dialogName":  "story4",
+        "image":  "1",
+        "text_cn":  "당신은 어둠의 용기 속에 숨고 싶어 합니다",
+        "text_en":  "You long to hide within the dark container",
+        "text_jp":  "あなたは闇の容器に隠れたい。"
+    },
+    {
+        "ID":  372,
+        "dialogName":  "story4",
+        "image":  "1",
+        "text_cn":  "하지만 운명은 여전히 싹을 틔웁니다",
+        "text_en":  "Yet destiny still sends out shoots",
+        "text_jp":  "それでも運命は枝を伸ばし、芽を出す。"
+    },
+    {
+        "ID":  373,
+        "dialogName":  "story4",
+        "image":  "1",
+        "text_cn":  "세계는 탄생 이후 수많은 그런 분열을 겪어 왔습니다",
+        "text_en":  "The world has undergone countless such splittings since its genesis",
+        "text_jp":  "世界は生まれてから、無数のそうした分裂を経てきた。"
+    },
+    {
+        "ID":  374,
+        "dialogName":  "story4",
+        "image":  "1",
+        "text_cn":  "그리고 이번에도 예외는 아닙니다",
+        "text_en":  "And this time is no exception",
+        "text_jp":  "今回も例外ではない。"
+    },
+    {
+        "ID":  375,
+        "dialogName":  "",
+        "image":  "1",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  376,
+        "dialogName":  "story5",
+        "image":  "1",
+        "text_cn":  "당신은 성취와 권력을 얻었습니다",
+        "text_en":  "You have attained achievements and power",
+        "text_jp":  "あなたは成果と力を手にした。"
+    },
+    {
+        "ID":  377,
+        "dialogName":  "story5",
+        "image":  "1",
+        "text_cn":  "하지만 때로는 당신이 이미 죽었다고 느낍니다",
+        "text_en":  "But sometimes you feel that you have already died",
+        "text_jp":  "時に、自分はとっくに死んでいるような気がする。"
+    },
+    {
+        "ID":  378,
+        "dialogName":  "story5",
+        "image":  "1",
+        "text_cn":  "그리고 다른 길을 선택한 당신은 다른 세계에서 당신이 갈망하던 삶을 살고 있습니다",
+        "text_en":  "And the self who chose a different path lives the life you desire in another world",
+        "text_jp":  "別の道を選んだあなたは、別の世界で望んだ人生を生きている。"
+    },
+    {
+        "ID":  379,
+        "dialogName":  "story5",
+        "image":  "1",
+        "text_cn":  "—이 생각은 당신을 깊게 얽어맵니다",
+        "text_en":  "—This thought deeply entangles you",
+        "text_jp":  "その思いが、あなたを深く縛る。"
+    },
+    {
+        "ID":  380,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  381,
+        "dialogName":  "story6",
+        "image":  "1",
+        "text_cn":  "그리하여 당신의 갈망은 점차 부풀어 올랐습니다;",
+        "text_en":  "Thus, your desire gradually swelled; ",
+        "text_jp":  "やがて願いは膨らんでいった。"
+    },
+    {
+        "ID":  382,
+        "dialogName":  "story6",
+        "image":  "1",
+        "text_cn":  "당신은 모든 세계에 걸친 모든 당신의 삶을 알고 싶어 합니다",
+        "text_en":  "You yearn to know the lives of all your selves across every world.",
+        "text_jp":  "すべての世界の自分たちの暮らしを知りたい。"
+    },
+    {
+        "ID":  383,
+        "dialogName":  "story6",
+        "image":  "1",
+        "text_cn":  "당신은 그 세계와 삶에 닿고, 그들의 세계와 삶을 소유하고 싶어 합니다",
+        "text_en":  "You wish to touch those worlds and lives, to possess their worlds and their lives",
+        "text_jp":  "それらの世界と人生に触れ、それらの世界と人生を手に入れたい。"
+    },
+    {
+        "ID":  384,
+        "dialogName":  "story6",
+        "image":  "1",
+        "text_cn":  "—당신은 모든 소망을 집어삼키는 빛이 되어, 그 세계들의 신이 됩니다",
+        "text_en":  "—You become the light that devours all wishes, becoming the God of those worlds",
+        "text_jp":  "——あなたはすべての願いを呑み込む光となり、それらの世界の神となった。"
+    },
+    {
+        "ID":  385,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  386,
+        "dialogName":  "story7",
+        "image":  "1",
+        "text_cn":  "기억하시나요?",
+        "text_en":  "Do you remember?",
+        "text_jp":  "思い出せるだろうか。"
+    },
+    {
+        "ID":  387,
+        "dialogName":  "story7",
+        "image":  "1",
+        "text_cn":  "한때 마법 소녀가 되고 싶어 했던 자신을",
+        "text_en":  "The self who once wished to become a magic girl",
+        "text_jp":  "かつて魔法少女になりたいと願った自分を。"
+    },
+    {
+        "ID":  388,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  389,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  " ",
+        "text_jp":  ""
+    },
+    {
+        "ID":  390,
+        "dialogName":  "reality1",
+        "image":  "1",
+        "text_cn":  "낙일항",
+        "text_en":  "The Sunset Harbour",
+        "text_jp":  "落日港"
+    },
+    {
+        "ID":  391,
+        "dialogName":  "reality1",
+        "image":  "1",
+        "text_cn":  "전설에 따르면, 신은 이중 슬릿을 통해 이 세계를 관측했다고 합니다",
+        "text_en":  "Legend has it that God observed this world through the double slit",
+        "text_jp":  "伝説では、神は双縫を通してこの世界を観測したという。"
+    },
+    {
+        "ID":  392,
+        "dialogName":  "reality1",
+        "image":  "1",
+        "text_cn":  "그곳을 지나간 배들은 한때 축복을 받았습니다",
+        "text_en":  "Ships that sailed through it were once granted blessings",
+        "text_jp":  "そこを通り抜けた船には祝福が与えられたという。"
+    },
+    {
+        "ID":  393,
+        "dialogName":  "reality1",
+        "image":  "1",
+        "text_cn":  "이제 그 배들은 모두 바닥으로 가라앉았습니다",
+        "text_en":  "Now they have all sunk to the bottom",
+        "text_jp":  "今はその船はすべて沈んでいる。"
+    },
+    {
+        "ID":  394,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  395,
+        "dialogName":  "reality2",
+        "image":  "2",
+        "text_cn":  "빙결된 잔교",
+        "text_en":  "Frozen Trestle",
+        "text_jp":  "氷結した桟橋"
+    },
+    {
+        "ID":  396,
+        "dialogName":  "reality2",
+        "image":  "2",
+        "text_cn":  "한때는 이곳을 기차들이 지나가며, 수많은 상자를 실어 날랐습니다",
+        "text_en":  "Trains once passed through here, carrying carriage after carriage of boxes",
+        "text_jp":  "かつて列車がここを通り、一両また一両と箱を運んだ。"
+    },
+    {
+        "ID":  397,
+        "dialogName":  "reality2",
+        "image":  "2",
+        "text_cn":  "상자들이 너무 위험했기에, 모두 추방하자는 제안이 나왔습니다",
+        "text_en":  "Because the boxes were too dangerous, it was proposed all be banished",
+        "text_jp":  "箱は危険すぎるとして、すべてを追放する案が出た。"
+    },
+    {
+        "ID":  398,
+        "dialogName":  "reality2",
+        "image":  "2",
+        "text_cn":  "이제 기차들은 멀리 떠나갔고",
+        "text_en":  "Now the trains have departed into the distance",
+        "text_jp":  "今は列車は遠く去った。"
+    },
+    {
+        "ID":  399,
+        "dialogName":  "reality2",
+        "image":  "2",
+        "text_cn":  "얼어붙은 선로 위에는 단 하나의 상자만이 버려져 남았습니다",
+        "text_en":  "Leaving only a single box abandoned on the frozen tracks",
+        "text_jp":  "氷った線路に、最後の一つの箱だけが取り残されている。"
+    },
+    {
+        "ID":  400,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  401,
+        "dialogName":  "reality3",
+        "image":  "3",
+        "text_cn":  "바벨탑",
+        "text_en":  "The Babel Tower",
+        "text_jp":  "通天の塔"
+    },
+    {
+        "ID":  402,
+        "dialogName":  "reality3",
+        "image":  "3",
+        "text_cn":  "태고의 시대에 세워진 건축물이라고 전해집니다",
+        "text_en":  "It is said to be a structure built in an ancient era",
+        "text_jp":  "太古に築かれた建造物だという。"
+    },
+    {
+        "ID":  403,
+        "dialogName":  "reality3",
+        "image":  "3",
+        "text_cn":  "시간이 흐르며 상자와 인간 모두 점점 줄어들었습니다",
+        "text_en":  "As time flowed on, both the boxes and human became fewer and fewer",
+        "text_jp":  "時が流れ、箱も人も減っていった。"
+    },
+    {
+        "ID":  404,
+        "dialogName":  "reality3",
+        "image":  "3",
+        "text_cn":  "한때 하늘을 찌를 듯 높았던 탑 또한 성장을 멈췄습니다",
+        "text_en":  "The high tower that once tore through the sky has also ceased its growth",
+        "text_jp":  "空を裂く高塔も、成長を止めた。"
+    },
+    {
+        "ID":  405,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  406,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "세계수 바다",
+        "text_en":  "Sea of World Trees",
+        "text_jp":  "世界樹の海"
+    },
+    {
+        "ID":  407,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "이 기묘한 나무들은 세계수라고 불립니다",
+        "text_en":  "These peculiar trees are known as World Trees",
+        "text_jp":  "この奇妙な木は世界樹と呼ばれる。"
+    },
+    {
+        "ID":  408,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "가지에는 입방체 모양의 열매가 맺히며",
+        "text_en":  "They bear cubic fruits on their branches",
+        "text_jp":  "枝には立方体の実がなる。"
+    },
+    {
+        "ID":  409,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "열매는 다시 가지에서 싹터 새로운 나무가 됩니다",
+        "text_en":  "and fruits sprout upon the branches to become new trees",
+        "text_jp":  "実はまた枝で芽吹き、新しい世界樹になる。"
+    },
+    {
+        "ID":  410,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "어떤 열매들은 도중에 떨어져 지상의 상자가 되기도 했습니다",
+        "text_en":  "Some fruits fell prematurely, becoming boxes upon the ground",
+        "text_jp":  "途中で落ち、地面の箱になったものもある。"
+    },
+    {
+        "ID":  411,
+        "dialogName":  "reality4",
+        "image":  "4",
+        "text_cn":  "최근 들어 세계수의 성장은 점점 더 어려워지고 있습니다",
+        "text_en":  "Recently, the growth of the World Trees has become increasingly difficult",
+        "text_jp":  "近頃、世界樹の生長はますます難しくなっている。"
+    },
+    {
+        "ID":  412,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  413,
+        "dialogName":  "reality5",
+        "image":  "5",
+        "text_cn":  "양자 실험실",
+        "text_en":  "Quanatum Laboratory",
+        "text_jp":  "量子実験室"
+    },
+    {
+        "ID":  414,
+        "dialogName":  "reality5",
+        "image":  "5",
+        "text_cn":  "이 세상의 것이 아닌 과학 장치입니다",
+        "text_en":  "A scientific apparatus that does not belong to this world",
+        "text_jp":  "この世界のものではない科学装置。"
+    },
+    {
+        "ID":  415,
+        "dialogName":  "reality5",
+        "image":  "5",
+        "text_cn":  "그것은 거대한 이중 나선 구조를 만들어냈습니다",
+        "text_en":  "It has created a colossal double-helix structure",
+        "text_jp":  "巨大な二重らせん構造を生み出している。"
+    },
+    {
+        "ID":  416,
+        "dialogName":  "reality5",
+        "image":  "5",
+        "text_cn":  "어쩌면 우주보다 더 거대한 생명체일지도 모릅니다",
+        "text_en":  "Perhaps a life form even vaster than the universe",
+        "text_jp":  "宇宙より大きな生命かもしれない。"
+    },
+    {
+        "ID":  417,
+        "dialogName":  "reality5",
+        "image":  "5",
+        "text_cn":  "현재 우리의 현실 너머에서 깨어나고 있습니다",
+        "text_en":  "is currently awakening outside our reality",
+        "text_jp":  "私たちの外側で、目を覚ましつつある。"
+    },
+    {
+        "ID":  418,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  419,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  420,
+        "dialogName":  "reality6",
+        "image":  "6",
+        "text_cn":  "운명의 수레바퀴",
+        "text_en":  "Wheel of Fate",
+        "text_jp":  "運命の輪"
+    },
+    {
+        "ID":  421,
+        "dialogName":  "reality6",
+        "image":  "6",
+        "text_cn":  "시작도 없고, 끝도 없다",
+        "text_en":  "It has no beginning, and it has no end",
+        "text_jp":  "始まりも終わりもない。"
+    },
+    {
+        "ID":  422,
+        "dialogName":  "reality6",
+        "image":  "6",
+        "text_cn":  "그것은 그저 그곳에, 거대하고 고요하게 서 있다",
+        "text_en":  "That thing simply stands there, towering and silent",
+        "text_jp":  "それはただそこに、黙って聳え立っている。"
+    },
+    {
+        "ID":  423,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  424,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  425,
+        "dialogName":  "terminal",
+        "image":  "1",
+        "text_cn":  "상자들의 행렬, 다시 태어나기를 기다리고 있지만... 길은 막혀 있다",
+        "text_en":  "A queue of boxes, waiting to be born again... yet the way is congested",
+        "text_jp":  "箱たちが転生の列に並んでいる……が、道が塞がっているようだ。"
+    },
+    {
+        "ID":  426,
+        "dialogName":  "terminal",
+        "image":  "1",
+        "text_cn":  "어쩌면 이것이 우리 세계의 병폐의 근원일지도 모른다",
+        "text_en":  "Maybe this is the root of sickness of our world",
+        "text_jp":  "これが世界の病の根かもしれない……。"
+    },
+    {
+        "ID":  427,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  428,
+        "dialogName":  "end1",
+        "image":  "1",
+        "text_cn":  "내가 이 태초의 빛 속으로 걸어 들어간다면, 나는 어디에 있게 될까?",
+        "text_en":  "Should I walk into this original radiance, where would I find myself? ",
+        "text_jp":  "この最初の光に足を踏み入れたら——私はどこへ行く？"
+    },
+    {
+        "ID":  429,
+        "dialogName":  "end1",
+        "image":  "1",
+        "text_cn":  "어쩌면 그때쯤이면, 나는 이 세계를 영원히 뒤로하고 떠났을 것이다",
+        "text_en":  "Maybe then, I will have left this world behind forever",
+        "text_jp":  "もうこの世界にはいないのかもしれない。"
+    },
+    {
+        "ID":  430,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  431,
+        "dialogName":  "end2",
+        "image":  "1",
+        "text_cn":  "상자들은 다시 윤회로 돌아갔고, 머지않아 다시 태어날 것이라 믿는다",
+        "text_en":  "The boxes have re-entered the cycle, and I believe they will be reborn before long.",
+        "text_jp":  "箱たちは輪廻に戻った。もうすぐ新しい生を得られると信じて。"
+    },
+    {
+        "ID":  432,
+        "dialogName":  "end2",
+        "image":  "1",
+        "text_cn":  "나도 이제 돌아가야 할 시간이다!",
+        "text_en":  "It is time for me to head back as well!",
+        "text_jp":  "私もそろそろ帰らないと！"
+    },
+    {
+        "ID":  433,
+        "dialogName":  "end2",
+        "image":  "1",
+        "text_cn":  "마지막까지 함께해 줘서 고마워!",
+        "text_en":  "Thank you for staying with me until the very end!",
+        "text_jp":  "最後まで一緒にいてくれてありがとう！"
+    },
+    {
+        "ID":  434,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  435,
+        "dialogName":  "starlock",
+        "image":  "1",
+        "text_cn":  "별을 모으면 내 마법력이 더 강해져!",
+        "text_en":  "Collecting stars makes my magic power stronger!",
+        "text_jp":  "星を集めると魔法が強くなって、ここに入れるようになる！"
+    },
+    {
+        "ID":  436,
+        "dialogName":  "starlock",
+        "image":  "1",
+        "text_cn":  "여기를 지나가려면 별 [15]개가 필요하다는 느낌이 들어! (Too literal)",
+        "text_en":  "I feel that I need [15] stars to pass here!",
+        "text_jp":  "ここを通るには[15]個の星が必要な気がする！"
+    },
+    {
+        "ID":  437,
+        "dialogName":  "starlock",
+        "image":  "1",
+        "text_cn":  "이제 [\u003cdata_acc_star\u003e]개의 별을 모았어!",
+        "text_en":  "Now I\u0027ve collected [\u003cdata_acc_star\u003e] stars! ",
+        "text_jp":  "今は[\u003cdata_acc_star\u003e]個集まってる！"
+    },
+    {
+        "ID":  438,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  439,
+        "dialogName":  "starunlock",
+        "image":  "1",
+        "text_cn":  "이미 [ \u003cdata_acc_star\u003e ]개의 별을 모았어!",
+        "text_en":  "I\u0027ve already collected [\u003cdata_acc_star\u003e] stars! ",
+        "text_jp":  "もう[\u003cdata_acc_star\u003e]個の星を集めた！"
+    },
+    {
+        "ID":  440,
+        "dialogName":  "starunlock",
+        "image":  "1",
+        "text_cn":  "그들의 힘으로 이곳을 통과할 수 있어",
+        "text_en":  "Their power can help me pass here",
+        "text_jp":  "その力でここを通れる。"
+    },
+    {
+        "ID":  441,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  442,
+        "dialogName":  "quantumsit",
+        "image":  "1",
+        "text_cn":  "바다에 앉아 있는 것 같아!",
+        "text_en":  "Likes sitting in the sea!",
+        "text_jp":  "海に座ってるみたい！"
+    },
+    {
+        "ID":  443,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  444,
+        "dialogName":  "deadend",
+        "image":  "1",
+        "text_cn":  "내가로 가버리면, 나를 그리워해 줄래?",
+        "text_en":  "If I’ve gone, will you miss me?",
+        "text_jp":  "私がいなくなったら、寂しく思ってくれる？"
+    },
+    {
+        "ID":  445,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  446,
+        "dialogName":  "hinthint",
+        "image":  "1",
+        "text_cn":  "如果感到困难，也许可以在菜单中寻找一下启示……",
+        "text_en":  "",
+        "text_jp":  "困ったら、メニューにヒントがあるかも……。"
+    },
+    {
+        "ID":  447,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  448,
+        "dialogName":  "curiosity",
+        "image":  "1",
+        "text_cn":  "호기심이 고양이를 죽인다!",
+        "text_en":  "Curiosity kills the cat!",
+        "text_jp":  "好奇心は猫を殺す！"
+    },
+    {
+        "ID":  449,
+        "dialogName":  "curiosity",
+        "image":  "1",
+        "text_cn":  "——양자 실험 보고서",
+        "text_en":  "——Quantum Experiment Report",
+        "text_jp":  "——量子実験ログ"
+    },
+    {
+        "ID":  450,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  451,
+        "dialogName":  "lab1",
+        "image":  "1",
+        "text_cn":  "암흑 물질 실험 구역",
+        "text_en":  "Dark Matter Experimental Zone",
+        "text_jp":  "暗黒物質実験区"
+    },
+    {
+        "ID":  452,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  453,
+        "dialogName":  "lab2",
+        "image":  "1",
+        "text_cn":  "운동량 실험 구역",
+        "text_en":  "Momentum Experimental Zone",
+        "text_jp":  "運動量実験区"
+    },
+    {
+        "ID":  454,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  455,
+        "dialogName":  "lab3",
+        "image":  "1",
+        "text_cn":  "양자 얽힘 실험 구역",
+        "text_en":  "Quantum Entanglement Experimental Zone",
+        "text_jp":  "量子もつれ実験区"
+    },
+    {
+        "ID":  456,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  457,
+        "dialogName":  "lab4",
+        "image":  "1",
+        "text_cn":  "앞에는 거대한 미지의 세계가 기다리고 있습니다",
+        "text_en":  "Ahead lies the great unknown",
+        "text_jp":  "その先には偉大な未知がある。"
+    },
+    {
+        "ID":  458,
+        "dialogName":  "",
+        "image":  "",
+        "text_cn":  "",
+        "text_en":  "",
+        "text_jp":  ""
+    },
+    {
+        "ID":  459,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "우리는 이제 더 복잡한 세계선 구조의 영역으로 들어갑니다!",
+        "text_en":  "We are entering the realm of more complex structures of worldlines!",
+        "text_jp":  "より複雑な世界線構造の領域に入っていく！"
+    },
+    {
+        "ID":  460,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "이미 알고 계시겠지만, 세계선 이동은 무한한 힘을 가지고 있습니다",
+        "text_en":  "As you knows, worldline traveling has infinite power",
+        "text_jp":  "世界線移動には、ほぼ無限の力があるのはもう知ってるよね。"
+    },
+    {
+        "ID":  461,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "이 레벨들의 핵심 설계가 그로 인해 파괴되지는 않겠지만, 더 우아한 해결책이 언제나 더 좋습니다!",
+        "text_en":  "Although these levels core design wouldn\u0027t be destroyed by that, more elegant solutions are always better!",
+        "text_jp":  "このシリーズのコアデザインは壊れないとしても、より簡潔な解き方がおすすめ！"
+    },
+    {
+        "ID":  462,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "레벨 제목 아래의 시계와 숫자는 이 레벨을 완료하는 데 추천하는 최대 세계선 수입니다",
+        "text_en":  "Clock and numbers below the level title are recommand max worldlines count to complete this level",
+        "text_jp":  "ステージタイトル下の時計と数字は、クリアに使う世界線の目安の数。"
+    },
+    {
+        "ID":  463,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "예를 들어, 이 레벨은 4개의 세계선으로 해결할 수 있습니다",
+        "text_en":  "For example this level can be solve within 4 worldlines",
+        "text_jp":  "例えばこのステージは4本の世界線で解ける。前のステージと同じ！"
+    },
+    {
+        "ID":  464,
+        "dialogName":  "limittl",
+        "image":  "1",
+        "text_cn":  "물론 그렇게 하지 않아도 괜찮습니다.",
+        "text_en":  "Or you may choose not to do that, it\u0027s okay.",
+        "text_jp":  "もちろん、そうしなくてもクリアには影響しないよ。"
+    }
+]
