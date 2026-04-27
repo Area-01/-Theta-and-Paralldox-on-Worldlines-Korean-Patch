@@ -1,0 +1,1082 @@
+[
+    {
+        "id":  "theta",
+        "hierachy":  0,
+        "reqlevel":  "",
+        "pointer":  "",
+        "name_cn":  "세타",
+        "name_en":  "Theta",
+        "name_jp":  "シータ"
+    },
+    {
+        "id":  "element",
+        "hierachy":  0,
+        "reqlevel":  "",
+        "pointer":  "",
+        "name_cn":  "요소",
+        "name_en":  "Elements",
+        "name_jp":  "各種要素"
+    },
+    {
+        "id":  "paralldox",
+        "hierachy":  0,
+        "reqlevel":  "",
+        "pointer":  "",
+        "name_cn":  "패러독스?",
+        "name_en":  "Paralldox?",
+        "name_jp":  "並行パラドクス？"
+    },
+    {
+        "id":  "move",
+        "hierachy":  1,
+        "reqlevel":  "tut1",
+        "pointer":  "theta",
+        "name_cn":  "이동",
+        "name_en":  "Move",
+        "name_jp":  "移動"
+    },
+    {
+        "id":  "split",
+        "hierachy":  1,
+        "reqlevel":  "fork",
+        "pointer":  "theta",
+        "name_cn":  "분열",
+        "name_en":  "Split",
+        "name_jp":  "分裂"
+    },
+    {
+        "id":  "merge",
+        "hierachy":  1,
+        "reqlevel":  "seal",
+        "pointer":  "theta",
+        "name_cn":  "융합",
+        "name_en":  "Merge",
+        "name_jp":  "融合"
+    },
+    {
+        "id":  "die",
+        "hierachy":  1,
+        "reqlevel":  "tut3",
+        "pointer":  "theta",
+        "name_cn":  "소멸",
+        "name_en":  "Vanish",
+        "name_jp":  "消滅"
+    },
+    {
+        "id":  "toggle",
+        "hierachy":  1,
+        "reqlevel":  "breakthrough",
+        "pointer":  "theta",
+        "name_cn":  "세계선 전환",
+        "name_en":  "Switch Worldlines",
+        "name_jp":  "世界線切替"
+    },
+    {
+        "id":  "priority",
+        "hierachy":  1,
+        "reqlevel":  "laplace",
+        "pointer":  "theta",
+        "name_cn":  "우선순위",
+        "name_en":  "Priority",
+        "name_jp":  "優先度"
+    },
+    {
+        "id":  "ice",
+        "hierachy":  1,
+        "reqlevel":  "ice",
+        "pointer":  "element",
+        "name_cn":  "빙판",
+        "name_en":  "Ice Floor",
+        "name_jp":  "氷床"
+    },
+    {
+        "id":  "prism",
+        "hierachy":  1,
+        "reqlevel":  "illuminate",
+        "pointer":  "element",
+        "name_cn":  "프리즘",
+        "name_en":  "Prism",
+        "name_jp":  "プリズム"
+    },
+    {
+        "id":  "shadow",
+        "hierachy":  1,
+        "reqlevel":  "darkcloud",
+        "pointer":  "element",
+        "name_cn":  "검은 것들",
+        "name_en":  "Black Things",
+        "name_jp":  "暗闇"
+    },
+    {
+        "id":  "wall",
+        "hierachy":  1,
+        "reqlevel":  "earth",
+        "pointer":  "element",
+        "name_cn":  "벽",
+        "name_en":  "Wall",
+        "name_jp":  "壁"
+    },
+    {
+        "id":  "lock",
+        "hierachy":  1,
+        "reqlevel":  "heart",
+        "pointer":  "element",
+        "name_cn":  "자물쇠와 열쇠",
+        "name_en":  "Lock and Key",
+        "name_jp":  "錠と鍵"
+    },
+    {
+        "id":  "entry",
+        "hierachy":  1,
+        "reqlevel":  "3X",
+        "pointer":  "element",
+        "name_cn":  "레벨 크리스탈",
+        "name_en":  "Level Crystal",
+        "name_jp":  "レベルクリスタル"
+    },
+    {
+        "id":  "level",
+        "hierachy":  1,
+        "reqlevel":  "dusk",
+        "pointer":  "element",
+        "name_cn":  "레벨 유형",
+        "name_en":  "Level Types",
+        "name_jp":  "レベルタイプ"
+    },
+    {
+        "id":  "confliction",
+        "hierachy":  1,
+        "reqlevel":  "breakthrough",
+        "pointer":  "paralldox",
+        "name_cn":  "충돌",
+        "name_en":  "Conflict",
+        "name_jp":  "衝突"
+    },
+    {
+        "id":  "superposition",
+        "hierachy":  1,
+        "reqlevel":  "question",
+        "pointer":  "paralldox",
+        "name_cn":  "중첩",
+        "name_en":  "Superposition",
+        "name_jp":  "重ね合わせ"
+    },
+    {
+        "id":  "inbox",
+        "hierachy":  1,
+        "reqlevel":  "circle",
+        "pointer":  "paralldox",
+        "name_cn":  "박싱",
+        "name_en":  "Boxing",
+        "name_jp":  "箱詰め"
+    },
+    {
+        "id":  "entanglement",
+        "hierachy":  1,
+        "reqlevel":  "spooky",
+        "pointer":  "paralldox",
+        "name_cn":  "양자 얽힘",
+        "name_en":  "Quantum Entanglement",
+        "name_jp":  "量子もつれ"
+    },
+    {
+        "id":  "transport",
+        "hierachy":  1,
+        "reqlevel":  "displaced2",
+        "pointer":  "paralldox",
+        "name_cn":  "이동",
+        "name_en":  "Transportation",
+        "name_jp":  "越境"
+    },
+    {
+        "id":  "loop",
+        "hierachy":  1,
+        "reqlevel":  "mobius",
+        "pointer":  "paralldox",
+        "name_cn":  "무한 루프",
+        "name_en":  "Infinite Loop",
+        "name_jp":  "無限ループ"
+    },
+    {
+        "id":  "move-1",
+        "hierachy":  2,
+        "reqlevel":  "tut1",
+        "pointer":  "move",
+        "name_cn":  "세타는 상하좌우로 이동합니다. 모든 세타가 동시에 이동합니다.",
+        "name_en":  "Theta moves orthogonally. All Thetas move simultaneously.",
+        "name_jp":  "シータは上下左右に移動でき、すべてのシータが同時に動く。"
+    },
+    {
+        "id":  "move-2",
+        "hierachy":  2,
+        "reqlevel":  "tut2",
+        "pointer":  "move",
+        "name_cn":  "세타의 이동 방향에 장애물이 있으면 왼쪽으로 방향을 틉니다.",
+        "name_en":  "When there\u0027s an obstacle in Theta\u0027s moving direction, she turns Left.",
+        "name_jp":  "進行方向に進めない障害物がある場合、シータは左へ進路を変える。"
+    },
+    {
+        "id":  "move-3",
+        "hierachy":  2,
+        "reqlevel":  "tut5",
+        "pointer":  "move",
+        "name_cn":  "첫 번째 왼쪽 방향 전환 후에도 여전히 막혀 있다면, 다시 왼쪽으로 방향을 틉니다.",
+        "name_en":  "If still blocked after first Left turn, she turns Left again",
+        "name_jp":  "左へ曲がった後も進めない場合、さらにもう一度左へ曲がる。"
+    },
+    {
+        "id":  "move-4",
+        "hierachy":  2,
+        "reqlevel":  "tut9",
+        "pointer":  "move",
+        "name_cn":  "두 번째 왼쪽 방향 전환 후에도 여전히 막혀 있다면, 세 번째로 왼쪽으로 방향을 틉니다.",
+        "name_en":  "If still blocked after second Left turn, she turns Left for the 3rd time.",
+        "name_jp":  "2回左へ曲がっても進めない場合、3回目の左折を行う。"
+    },
+    {
+        "id":  "move-5",
+        "hierachy":  2,
+        "reqlevel":  "lock",
+        "pointer":  "move",
+        "name_cn":  "모든 방향이 막혀 있으면, 세타는 방향만 바꿉니다.",
+        "name_en":  "If all directions are blocked, Theta only changes orientation",
+        "name_jp":  "どの方向にも進めない場合、シータは向きだけを変える。"
+    },
+    {
+        "id":  "split-1",
+        "hierachy":  2,
+        "reqlevel":  "fork",
+        "pointer":  "split",
+        "name_cn":  "포크를 획득한 후, 세타는 [분열]할 수 있으며, 보통은 자신의 왼쪽과 오른쪽에 분신을 생성합니다.",
+        "name_en":  "After obtaining fork, Theta can [Split] - which normally creates clones on her left and right sides.",
+        "name_jp":  "フォークを取得すると分裂でき、通常は向いている方向の左右に1体ずつ分身を生成する。"
+    },
+    {
+        "id":  "split-2",
+        "hierachy":  2,
+        "reqlevel":  "side",
+        "pointer":  "split",
+        "name_cn":  "측면 방향 중 어느 하나라도 막혀 있으면, 대신 전방에 분신을 생성합니다.",
+        "name_en":  "If any of lateral directions are blocked, creates a clone forward instead",
+        "name_jp":  "左右のどちらかに押せない障害物がある場合は、代わりに前方へ分身を1体生成する。"
+    },
+    {
+        "id":  "split-3",
+        "hierachy":  2,
+        "reqlevel":  "heart",
+        "pointer":  "split",
+        "name_cn":  "분열 시 방향, 소지 아이템 등 모든 상태가 복제됩니다.",
+        "name_en":  "Split duplicates all states: orientation, carried items, etc.",
+        "name_jp":  "分裂時には向きや所持アイテムなど、シータの状態がそのまま複製される。"
+    },
+    {
+        "id":  "split-4",
+        "hierachy":  2,
+        "reqlevel":  "clover",
+        "pointer":  "split",
+        "name_cn":  "왼쪽, 오른쪽, 전방이 모두 막혀 있으면, 분열은 효과가 없지만 포크는 소모됩니다.",
+        "name_en":  "If left/right/front all blocked, splitting has no effect but consuming the fork.",
+        "name_jp":  "左・右・前のいずれにも分身を出せない場合、フォークだけを消費してその場に留まる。"
+    },
+    {
+        "id":  "merge-1",
+        "hierachy":  2,
+        "reqlevel":  "seal",
+        "pointer":  "merge",
+        "name_cn":  "여러 명의 세타는 서로 직접 상호작용하지 않습니다. 같은 타일에 멈추면 [융합]합니다.",
+        "name_en":  "Multiple Thetas don\u0027t interact directly. When they stop in the same tile, they Merge.",
+        "name_jp":  "シータ同士のコピーは直接干渉しないが、同じマスで停止すると融合する。"
+    },
+    {
+        "id":  "merge-2",
+        "hierachy":  2,
+        "reqlevel":  "life",
+        "pointer":  "merge",
+        "name_cn":  "세타들이 서로 다른 수량의 아이템을 소지하고 있을 때, 융합 결과는 항상 최대 수량을 따릅니다.",
+        "name_en":  "If Thetas carries different quantities of items, the Merge result will always take the maximum quantity.",
+        "name_jp":  "所持数が異なる場合、融合後の所持数は常に最大値が採用される。"
+    },
+    {
+        "id":  "merge-3",
+        "hierachy":  2,
+        "reqlevel":  "interlace",
+        "pointer":  "merge",
+        "name_cn":  "얼음 위에서 운동 상태가 서로 다른 세타들은 융합하지 않습니다.",
+        "name_en":  "Thetas on ice with different momentum states won\u0027t merge",
+        "name_jp":  "氷上で運動状態が異なるシータは、一時的に同じマスにいても融合しない。"
+    },
+    {
+        "id":  "merge-4",
+        "hierachy":  2,
+        "reqlevel":  "pyramid",
+        "pointer":  "merge",
+        "name_cn":  "동일한 조상을 가지고 분열을 통해 복제된 상자들은 겹칠 때 융합합니다.",
+        "name_en":  "Boxes with the same ancestor and duplicated through Splitting will merge when they overlap.",
+        "name_jp":  "箱内分裂で作られた同一祖先の箱コピーは、重なると互いに融合する。"
+    },
+    {
+        "id":  "merge-5",
+        "hierachy":  2,
+        "reqlevel":  "zeno",
+        "pointer":  "merge",
+        "name_cn":  "동일한 조상을 가지고 세계선 단절을 통해 복제된 상자들은 겹칠 때 융합합니다.",
+        "name_en":  "Boxes with the same ancestor and duplicated through Worldline Fracture will merge when they overlap.",
+        "name_jp":  "世界線断裂で生じた同一祖先の箱コピーも、重なると互いに融合する。"
+    },
+    {
+        "id":  "die-1",
+        "hierachy":  2,
+        "reqlevel":  "tut3",
+        "pointer":  "die",
+        "name_cn":  "세타는 가시를 감지할 수 없습니다. 가시를 밟으면 [소멸]합니다.",
+        "name_en":  "Theta can\u0027t detect Spikes. Stepping on them triggers Vanishing",
+        "name_jp":  "シータはトゲの危険を認識できず、踏むと消滅する。"
+    },
+    {
+        "id":  "die-2",
+        "hierachy":  2,
+        "reqlevel":  "phantom",
+        "pointer":  "die",
+        "name_cn":  "소멸한 세타는 유령 상태가 되며, 이는 어둠 속에서만 유지됩니다.",
+        "name_en":  "Vanished Thetas enter Ghost State, only sustainable in darkness",
+        "name_jp":  "シータが消滅すると幽霊状態になるが、暗闇の外では維持できない。"
+    },
+    {
+        "id":  "die-3",
+        "hierachy":  2,
+        "reqlevel":  "protection",
+        "pointer":  "die",
+        "name_cn":  "유령을 상자에 넣으면 상자 내부가 어둡기 때문에 유령 상태를 유지할 수 있습니다.",
+        "name_en":  "Containing ghosts in boxes can preserve them, because boxes are dark inside.",
+        "name_jp":  "箱詰めを使えば箱の中の暗闇によって、シータの幽霊状態を保持できる。"
+    },
+    {
+        "id":  "toggle-1",
+        "hierachy":  2,
+        "reqlevel":  "breakthrough",
+        "pointer":  "toggle",
+        "name_cn":  "\u003ckey_tab\u003e 키로 수평으로 정렬된 세계선들을 순환하며 전환합니다.",
+        "name_en":  "\u003ckey_tab\u003e cycles horizontally aligned Worldlines",
+        "name_jp":  "\u003ckey_tab\u003eで水平方向に並ぶ世界線を切り替えられ、切替先の世界線ではその世界線の時刻に入る。"
+    },
+    {
+        "id":  "toggle-2",
+        "hierachy":  2,
+        "reqlevel":  "breakthrough",
+        "pointer":  "toggle",
+        "name_cn":  "각 세계선에서는 현재 시점까지의 다른 세계선들의 가장 최신 상태만을 관측할 수 있습니다.",
+        "name_en":  "In each worldline, only the most recent state of other worldlines up to the current point in time can be observed.",
+        "name_jp":  "各世界線では、他の世界線について現在時刻以前の最新状態のみを観測できる。"
+    },
+    {
+        "id":  "toggle-3",
+        "hierachy":  2,
+        "reqlevel":  "world",
+        "pointer":  "toggle",
+        "name_cn":  "현재 시점에 아직 생성되지 않은 세계선은 시야에서 침몰한 상태로 표시됩니다.",
+        "name_en":  "Worldlines that haven\u0027t been created at current time appear submerged in view",
+        "name_jp":  "現在時刻で未生成の世界線は、現在の視界では水没状態として表示される。"
+    },
+    {
+        "id":  "toggle-4",
+        "hierachy":  2,
+        "reqlevel":  "shape",
+        "pointer":  "toggle",
+        "name_cn":  "\u003ckey_shift\u003e로 수직 방향으로 정렬된 [세계선]을 전환합니다.",
+        "name_en":  "\u003ckey_shift\u003e cycles vertically aligned [Worldlines]",
+        "name_jp":  "\u003ckey_shift\u003eで垂直方向に並ぶ世界線を切り替えられる。"
+    },
+    {
+        "id":  "toggle-5",
+        "hierachy":  2,
+        "reqlevel":  "endofworld",
+        "pointer":  "toggle",
+        "name_cn":  "다른 세계선으로 전환하여 무한 루프 세계선에서 벗어날 수 있지만, 무한 루프 세계선으로 전환하는 것은 불가능합니다.",
+        "name_en":  "It is possible to exit an infinite-loop worldline by switching to another worldline, but switching into an infinite-loop worldline is not allowed.",
+        "name_jp":  "世界線切替で無限ループ中の世界線から離脱できるが、無限ループ中の世界線へ切り替えることはできない。"
+    },
+    {
+        "id":  "transport-1",
+        "hierachy":  2,
+        "reqlevel":  "displaced2",
+        "pointer":  "transport",
+        "name_cn":  "레벨은 순환 구조이며, 좌우 및 상하 끝이 서로 연결되어 있습니다.",
+        "name_en":  "Levels are cyclic - connected left/right and top/bottom",
+        "name_jp":  "レベルは循環構造で、左右端と上下端がそれぞれ接続されている。"
+    },
+    {
+        "id":  "transport-2",
+        "hierachy":  2,
+        "reqlevel":  "helloworld",
+        "pointer":  "transport",
+        "name_cn":  "경계를 넘어 이동하면 인접한 세계선에 도달하며, 세계선이 하나뿐일 때는 순환 레벨이 됩니다.",
+        "name_en":  "Travelling across boundaries reaches adjacent worldlines; with only one worldline, this becomes cyclic level",
+        "name_jp":  "境界越えの本質は隣接世界線への移動であり、世界線が1本しかない場合は循環レベルとして振る舞う。"
+    },
+    {
+        "id":  "transport-3",
+        "hierachy":  2,
+        "reqlevel":  "twofork",
+        "pointer":  "transport",
+        "name_cn":  "물체가 세계선 A에서 B로 이동할 때, B의 시간은 A의 시간에 동기화됩니다.",
+        "name_en":  "When an object transport from Worldline A to B, B\u0027s time is synchronized to A\u0027s time",
+        "name_jp":  "オブジェクトが世界線AからBへ越境すると、Bの時刻はAの時刻に同期される。"
+    },
+    {
+        "id":  "transport-4",
+        "hierachy":  2,
+        "reqlevel":  "hotel",
+        "pointer":  "transport",
+        "name_cn":  "위의 내용에 따라, 세계선 B에 이동 시점 이후의 미래 전개가 있었더라도, 이동이 발생하면 해당 전개는 덮어씌워집니다.",
+        "name_en":  "Following above, even if Worldline B had future developments beyond the transport time point, the developments are overwritten once the transport occurs.",
+        "name_jp":  "このとき世界線Bに越境時点以降の展開があっても、越境で上書きされると失われる。"
+    },
+    {
+        "id":  "transport-5",
+        "hierachy":  2,
+        "reqlevel":  "gap",
+        "pointer":  "transport",
+        "name_cn":  "현재 시야에서 침몰한 세계선은 생성되지 않은 것으로 간주되어 이동 시 무시됩니다.",
+        "name_en":  "Sunken Worldlines in current view are considered uncreated and ignored during transportations.",
+        "name_jp":  "現在世界線から見て水没している世界線は未生成扱いとなり、越境時には無視される。"
+    },
+    {
+        "id":  "confliction-1",
+        "hierachy":  2,
+        "reqlevel":  "breakthrough",
+        "pointer":  "confliction",
+        "name_cn":  "여러 명의 세타가 서로 다른 방향에서 상자를 밀 때, 충돌이 발생하여 세계선이 분리됩니다.",
+        "name_en":  "When multiple Thetas push a box from different directions, a Conflict occurs and splits the Worldline.",
+        "name_jp":  "複数のシータが同時に異なる方向から箱を押すと、現在の世界線が両立できなくなり、世界線断裂（衝突）が発生する。"
+    },
+    {
+        "id":  "confliction-2",
+        "hierachy":  2,
+        "reqlevel":  "squish",
+        "pointer":  "confliction",
+        "name_cn":  "충돌에는 직교형과 대향형이 있습니다.",
+        "name_en":  "Conflicts have orthogonal and opposing forms",
+        "name_jp":  "衝突の主な形態は、直交型と対向型に分けられる。"
+    },
+    {
+        "id":  "confliction-3",
+        "hierachy":  2,
+        "reqlevel":  "fuse",
+        "pointer":  "confliction",
+        "name_cn":  "세타는 얼음 위 상자의 지연된 운동량 전달을 통해 충돌을 유발할 수 있습니다.",
+        "name_en":  "Theta can trigger conflicts via delayed momentum transfer of boxes on ice",
+        "name_jp":  "シータは氷上での箱の運動量伝達を利用し、遅延して直交衝突を発生させられる。"
+    },
+    {
+        "id":  "confliction-4",
+        "hierachy":  2,
+        "reqlevel":  "shape",
+        "pointer":  "confliction",
+        "name_cn":  "충돌은 여러 세계선이 동시에 관여할 수 있으며, 기존의 \"세계선 벡터\"에 직교하는 방향으로 새로운 세계선들을 생성하여 새로운 차원을 도입할 수 있습니다.",
+        "name_en":  "Conflict can involve multiple worldlines, creating new worldlines at orthogonal direction of original \"worldline vectors\", which may introduce new dimensions",
+        "name_jp":  "衝突は複数世界線で同時に起こり得て、元の「世界線ベクトル」に直交する方向へ新しい世界線群を生み、次元が増える場合がある。"
+    },
+    {
+        "id":  "confliction-5",
+        "hierachy":  2,
+        "reqlevel":  "destiny",
+        "pointer":  "confliction",
+        "name_cn":  "동일 평면 내의 여러 축에 걸친 충돌은 기존 평면 위로 새로운 세계선들을 분리시키며, 이로 인해 해수면이 상승하여 하층 세계선에 접근할 수 없게 됩니다.",
+        "name_en":  "Conflicts across multiple axes in same plane split new worldlines above the old plane,  raising sea level and making lower worldlines inaccessible.",
+        "name_jp":  "同一平面の複数軸にまたがる衝突では、平面に垂直な方向へ新たな世界線群が分岐し、同時に海面が上昇して下層世界線へ到達できなくなる。"
+    },
+    {
+        "id":  "inbox-1",
+        "hierachy":  2,
+        "reqlevel":  "circle",
+        "pointer":  "inbox",
+        "name_cn":  "세타가 상자 형태의 물체와 겹치면, 그 안에 갇히게 됩니다.",
+        "name_en":  "When Theta overlap with a box-like object, she get boxed inside",
+        "name_jp":  "シータが箱型オブジェクトと重なると、その中に閉じ込められる。"
+    },
+    {
+        "id":  "inbox-2",
+        "hierachy":  2,
+        "reqlevel":  "connected",
+        "pointer":  "inbox",
+        "name_cn":  "상자에 갇힌 세타는 가시 함정에 피해를 입지 않으며, 광선에 의해 관측될 수 있습니다.",
+        "name_en":  "Boxed Theta cannot be harmed by spikes and can be observed by beams",
+        "name_jp":  "箱詰め状態のシータはトゲのダメージを受けず、光線による観測対象にもなる。"
+    },
+    {
+        "id":  "inbox-3",
+        "hierachy":  2,
+        "reqlevel":  "lockpick",
+        "pointer":  "inbox",
+        "name_cn":  "상자에 갇힌 세타는 현재 타일의 아이템을 수집하고 열쇠를 사용하여 잠금 장치를 열 수 있습니다.",
+        "name_en":  "Boxed Theta can collect items on current tile and use keys to open locks",
+        "name_jp":  "箱詰め状態のシータは現在マスのドロップを拾え、鍵で錠を開けることもできる。"
+    },
+    {
+        "id":  "inbox-4",
+        "hierachy":  2,
+        "reqlevel":  "assimilation",
+        "pointer":  "inbox",
+        "name_cn":  "상자에 갇힌 세타는 분열할 수 있으며, 상자 또한 함께 복제됩니다.",
+        "name_en":  "Boxed Theta can split and duplicating the box as well",
+        "name_jp":  "箱詰め状態のシータは分裂でき、箱も同時に複製される。"
+    },
+    {
+        "id":  "inbox-5",
+        "hierachy":  2,
+        "reqlevel":  "limbo",
+        "pointer":  "inbox",
+        "name_cn":  "세타가 가시 함정을 밟음과 동시에 상자에 갇히면, 죽음과 갇힘의 순서가 불분명하므로 중첩(유령 상태) 상태로 상자에 갇히게 됩니다.",
+        "name_en":  "When Theta steps on spikes and gets boxed simultaneously,  she enters superposition (ghost state) due to indeterminate order of killing and boxing",
+        "name_jp":  "シータが同時にトゲを踏みつつ箱詰めされた場合、事象順序が不定なため、生死の重ね合わせ（幽霊状態）のまま箱詰めされる。"
+    },
+    {
+        "id":  "superposition-1",
+        "hierachy":  2,
+        "reqlevel":  "phantom",
+        "pointer":  "superposition",
+        "name_cn":  "세타의 유령 상태는 삶과 죽음의 중첩이며, 어둠 밖에서는 존재할 수 없습니다.",
+        "name_en":  "Theta\u0027s ghost state is superposition of life and death, it cannot exist outside darkness",
+        "name_jp":  "シータの幽霊状態は生と死の重ね合わせであり、暗闇の外では存在できない。"
+    },
+    {
+        "id":  "superposition-2",
+        "hierachy":  2,
+        "reqlevel":  "flash",
+        "pointer":  "superposition",
+        "name_cn":  "유령 상태의 세타를 관측하면, 그녀가 생존하는 세계선과 소멸하는 세계선이라는 두 가지 세계선이 생성됩니다.",
+        "name_en":  "Observing ghost-state Theta creates two worldlines: where she survives and where she vanishes",
+        "name_jp":  "幽霊状態のシータを観測すると、生存する世界線と消滅する世界線が生成される。"
+    },
+    {
+        "id":  "superposition-3",
+        "hierachy":  2,
+        "reqlevel":  "question",
+        "pointer":  "superposition",
+        "name_cn":  "상자 형태의 오브젝트가 겹치면 중첩된 오브젝트가 됩니다.",
+        "name_en":  "Overlapping box-like objects become a Superposed object",
+        "name_jp":  "2つの箱型オブジェクトが重なると、1つの重ね合わせオブジェクトとして統合される。"
+    },
+    {
+        "id":  "superposition-4",
+        "hierachy":  2,
+        "reqlevel":  "answer",
+        "pointer":  "superposition",
+        "name_cn":  "중첩된 오브젝트를 관측하면 각 단일 상태로 수렴하며 새로운 세계선이 생성됩니다.",
+        "name_en":  "Observing superposed objects creates new worldlines collapsing to each single state",
+        "name_jp":  "重ね合わせ状態のオブジェクトを観測すると、各単独状態へ収束し、それぞれ新しい世界線が生成される。"
+    },
+    {
+        "id":  "superposition-5",
+        "hierachy":  2,
+        "reqlevel":  "answer",
+        "pointer":  "superposition",
+        "name_cn":  "세타의 유령 상태와 상자 형태 오브젝트의 중첩은 유사한 현상이며, 이를 통칭하여 중첩이라고 합니다.",
+        "name_en":  "Theta\u0027s ghost state and box-like objects\u0027 superposition are similar phenomenon, collectively called Superposition",
+        "name_jp":  "シータの幽霊状態と箱の重ね合わせは同種の現象で、総称して重ね合わせと呼ぶ。"
+    },
+    {
+        "id":  "entanglement -1",
+        "hierachy":  2,
+        "reqlevel":  "spooky",
+        "pointer":  "entanglement",
+        "name_cn":  "유령 상태의 세타가 분열하면, 생성되는 중첩된 자식 오브젝트들은 반드시 동일한 유형이며, 이들은 양자 얽힘으로 연결됩니다.",
+        "name_en":  "When ghost-state Theta splits, the resulting superposed children are of the same type, and they are linked by quantum entanglement.",
+        "name_jp":  "幽霊状態のシータが分裂すると、生成される2つの重ね合わせ子オブジェクトは必ず同種となり、量子もつれで結び付けられる。"
+    },
+    {
+        "id":  "entanglement -2",
+        "hierachy":  2,
+        "reqlevel":  "spooky",
+        "pointer":  "entanglement",
+        "name_cn":  "얽힌 오브젝트를 관측하면, 새로운 세계선에서 그와 얽힌 모든 오브젝트가 동일한 상태(존재 또는 소멸)로 수렴합니다.",
+        "name_en":  "When an entangled object is observed,  all objects entangled with it collapse to the same state (existing or vanishing) in new Worldlines.",
+        "name_jp":  "もつれたオブジェクトの1つが観測されると、同じ世界線でそれと量子もつれした全オブジェクトが同一状態（存在／消失）へ揃う。"
+    },
+    {
+        "id":  "entanglement -3",
+        "hierachy":  2,
+        "reqlevel":  "glove",
+        "pointer":  "entanglement",
+        "name_cn":  "유령 상태의 세타가 분열할 때 복제된 상자들 또한 세타와 얽혀 있습니다.",
+        "name_en":  "Boxes duplicated when ghost-state Theta splits are entangled with Theta too",
+        "name_jp":  "幽霊状態シータの分裂で複製された箱も、シータと同様に量子もつれ関係を持つ。"
+    },
+    {
+        "id":  "entanglement -4",
+        "hierachy":  2,
+        "reqlevel":  "glove",
+        "pointer":  "entanglement",
+        "name_cn":  "생존한 세타만이 상자를 복제할 수 있으므로, 관측 시 사망한 쪽의 세타가 소멸하면 상자 또한 함께 소멸합니다.",
+        "name_en":  "Only living Theta can duplicate boxes, so if observed dead-side Theta vanishing removes boxes too",
+        "name_jp":  "箱を複製できるのは生存側のシータのみであるため、観測で死側シータが消えると対応する箱も同時に消える。"
+    },
+    {
+        "id":  "entanglement -5",
+        "hierachy":  2,
+        "reqlevel":  "sync",
+        "pointer":  "entanglement",
+        "name_cn":  "얽힌 세타가 이동하면, 얽힘으로 인해 다른 자유롭지 못한 얽힌 세타들과 그들의 컨테이너가 함께 이동하게 됩니다.",
+        "name_en":  "When entangled Theta moves, entanglement will force other non-free entangled Thetas and their Containers to move",
+        "name_jp":  "量子もつれ状態のシータが移動すると、他の非自由なもつれシータとその容器も連動して移動する。"
+    },
+    {
+        "id":  "entanglement -6",
+        "hierachy":  2,
+        "reqlevel":  "fusion",
+        "pointer":  "entanglement",
+        "name_cn":  "양자 얽힘은 중첩 붕괴보다 먼저 발생합니다. 얽힘으로 인해 삭제된 상자는 관측되지 않습니다.",
+        "name_en":  "Quantum entanglement occurs before superposition collapse; entanglement-deleted boxes won\u0027t be observed",
+        "name_jp":  "量子もつれの処理順は重ね合わせ収束より先であり、量子もつれで消去された箱はその後観測されない。"
+    },
+    {
+        "id":  "entanglement -7",
+        "hierachy":  2,
+        "reqlevel":  "tearing",
+        "pointer":  "entanglement",
+        "name_cn":  "얽힌 오브젝트가 자신의 세계선에서 사라지면, 얽힘 관계는 소멸합니다.",
+        "name_en":  "When an entangled object disappears from its worldline, the entangled relationship will expire.",
+        "name_jp":  "量子もつれ中のオブジェクトが現在世界線から消えると、もつれ関係は失効する。"
+    },
+    {
+        "id":  "loop-1",
+        "hierachy":  2,
+        "reqlevel":  "mobius",
+        "pointer":  "loop",
+        "name_cn":  "얼음 바닥에서의 이동은 무한 루프로 이어질 수 있습니다.",
+        "name_en":  "Movement on Ice Floor could lead to an infinite loop.",
+        "name_jp":  "氷床上での移動は無限ループを引き起こすことがある。"
+    },
+    {
+        "id":  "loop-2",
+        "hierachy":  2,
+        "reqlevel":  "endoftheworld",
+        "pointer":  "loop",
+        "name_cn":  "다른 세계선이 존재한다면, 전환을 통해 무한 루프 세계선에서 벗어날 수 있습니다.",
+        "name_en":  "If other worldlines exist, can switch away from infinite loop worldlines",
+        "name_jp":  "他の世界線が存在する場合は、切替によって無限ループ世界線から離脱できる。"
+    },
+    {
+        "id":  "loop-3",
+        "hierachy":  2,
+        "reqlevel":  "endoftheworld",
+        "pointer":  "loop",
+        "name_cn":  "무한 루프 세계선으로는 전환하여 들어갈 수 없으며, 이를 건너뛰어 이후의 세계선으로 전환하는 것도 불가능합니다.",
+        "name_en":  "Cannot switch into infinite loop worldlines ,nor skip them to later worldlines",
+        "name_jp":  "無限ループ世界線へは切替で入れず、それを飛ばして後方の世界線へ切り替えることもできない。"
+    },
+    {
+        "id":  "loop-4",
+        "hierachy":  2,
+        "reqlevel":  "cancel",
+        "pointer":  "loop",
+        "name_cn":  "오브젝트가 루프 중인 세계선으로 전송되면, 해당 세계선은 그 시점의 상태로 덮어씌워지며 루프가 중단됩니다.",
+        "name_en":  "When objects transport into a looping worldline, the worldline is overwriten to that state and break the loop",
+        "name_jp":  "ループ中の世界線にオブジェクトが越境して入ると、その時点状態で上書きされ、無限ループが中断される。"
+    },
+    {
+        "id":  "level-1",
+        "hierachy":  2,
+        "reqlevel":  "dusk",
+        "pointer":  "level",
+        "name_cn":  "레벨은 일반 레벨(숫자 또는 A~T 문자로 표시)과 메타 레벨(U~Z 문자로 표시)의 두 가지 유형이 있습니다.",
+        "name_en":  "There are two types of levels: normal levels (labeled with numbers or the letters A to T) and meta levels (labeled with U to Z).",
+        "name_jp":  "レベルは通常レベルとメタレベルの2種類があり、通常レベルは数字またはA〜T、メタレベルはU以降で表記される。"
+    },
+    {
+        "id":  "level-2",
+        "hierachy":  2,
+        "reqlevel":  "dusk",
+        "pointer":  "level",
+        "name_cn":  "일반 레벨은 독립적으로 해결할 수 있으며, 독립적인 해결만이 게임 완료도에 반영됩니다.",
+        "name_en":  "Normal levels can be solved independently and only independent solves count towards game completion.",
+        "name_jp":  "通常レベルは外部支援なしで独立に解け、ゲーム進行度にはその独力クリアのみが反映される。"
+    },
+    {
+        "id":  "level-3",
+        "hierachy":  2,
+        "reqlevel":  "world",
+        "pointer":  "level",
+        "name_cn":  "A~T로 표시된 레벨은 고유한 메커니즘이나 높은 난이도를 가진 엑스트라 레벨이며, 알파벳 순서대로 나타나지 않을 수 있습니다.",
+        "name_en":  "Levels labeled A-T are extra levels with unique mechanics or advanced difficulty, they may not appear in alphabet order",
+        "name_jp":  "A〜T表記のレベルはエクストラレベルで、特殊な仕組みや解法を持つもの、または当該章より高難度のものがあり、出現順はアルファベット順とは限らない。"
+    },
+    {
+        "id":  "level-5",
+        "hierachy":  2,
+        "reqlevel":  "world",
+        "pointer":  "level",
+        "name_cn":  "메타 레벨의 해결 방법에는 엑스트라 레벨이 관여하지 않습니다.",
+        "name_en":  "The solutions to meta levels do not involve extra levels.",
+        "name_jp":  "メタレベルの解法には、いかなるエクストラレベルも関与しない。"
+    },
+    {
+        "id":  "level-4",
+        "hierachy":  2,
+        "reqlevel":  "dusk",
+        "pointer":  "level",
+        "name_cn":  "일부 메타 레벨은 외부의 도움이 필요합니다. 메타 레벨은 해결 방법에 관계없이 모든 해결 사례가 완료도에 반영됩니다.",
+        "name_en":  "Some meta levels require external assistance; all meta level solves count towards completion, regardless of the method used.",
+        "name_jp":  "一部のメタレベルは外部支援を要するが、解法にかかわらずメタレベルのクリアはすべて進行度に加算される。"
+    },
+    {
+        "id":  "level-6",
+        "hierachy":  2,
+        "reqlevel":  "Chapter6",
+        "pointer":  "level",
+        "name_cn":  "챕터 맵은 \"0\"으로 표시됩니다",
+        "name_en":  "Chapter maps are labeled \"0\"",
+        "name_jp":  "各章のマップ番号は「0」である。"
+    },
+    {
+        "id":  "entry-1",
+        "hierachy":  2,
+        "reqlevel":  "dusk",
+        "pointer":  "entry",
+        "name_cn":  "여러 명의 세타가 동시에 레벨 크리스탈에 진입하면, 맵들이 가로로 연결된 가산 레벨로 진입하게 됩니다",
+        "name_en":  "Multiple Thetas entering level crystals simultaneously cause entering an additive level with maps connected horizontally",
+        "name_jp":  "複数のシータが同時に別位置のレベルクリスタルへ入ると、それらを加算したレベルに入り、各マップが連結される。"
+    },
+    {
+        "id":  "entry-2",
+        "hierachy":  2,
+        "reqlevel":  "refuse",
+        "pointer":  "entry",
+        "name_cn":  "서로 다른 세계선의 세타들이 동시에 진입하면, 각 레벨에서 하나의 세계선을 포함하는 직적 레벨로 진입합니다",
+        "name_en":  "Thetas from different worldlines entering simultaneously enter cross-product level with one worldline from each level",
+        "name_jp":  "異なる世界線のシータが同時に入場すると、それらの直積レベルに入り、各元レベル由来の世界線を1本ずつ含む。"
+    },
+    {
+        "id":  "entry-3",
+        "hierachy":  2,
+        "reqlevel":  "3X",
+        "pointer":  "entry",
+        "name_cn":  "세타와 레벨 크리스탈은 \"동향 반발, 이향 흡입\" 법칙을 따릅니다. 동향 크리스탈은 세타를 밀어냅니다",
+        "name_en":  "Theta and level crystals follows \"same spin repels ,opposite attracts\"; same-spin crystals repel Theta",
+        "name_jp":  "シータとレベルクリスタルには「同向反発・異向吸引」があり、シータと同じスピン向きのクリスタルはシータを反発する。"
+    },
+    {
+        "id":  "entry-4",
+        "hierachy":  2,
+        "reqlevel":  "3Y",
+        "pointer":  "entry",
+        "name_cn":  "동일한 위치에서 여러 번의 진입 행동이 발생하면, 해당 레벨들의 중첩 레벨로 진입합니다",
+        "name_en":  "When multiple entering behaviour happens in same position, enters their superposition level",
+        "name_jp":  "同一位置で複数の入場挙動が同時発生した場合、それらレベルの重ね合わせレベルへ入る。"
+    },
+    {
+        "id":  "entry-5",
+        "hierachy":  2,
+        "reqlevel":  "sky",
+        "pointer":  "entry",
+        "name_cn":  "레벨 진입 시 진입 전 최우선 순위 세타의 위치를 저장하고, 그것을 복원합니다. (동일 세계선 내에서는 비박스 세타가 우선됩니다)",
+        "name_en":  "Entering level saves position of highest-priority Theta before entry,  restores on exit. (Non-boxed Theta is prioritized in same worldine)",
+        "name_jp":  "レベル入場時には、入場操作直前時点で最優先のシータ位置を保存し、退出時に復元する（同一世界線内では非箱詰めシータを優先）。"
+    },
+    {
+        "id":  "entry-6",
+        "hierachy":  2,
+        "reqlevel":  "deadend",
+        "pointer":  "entry",
+        "name_cn":  "세타가 박스 내부의 레벨에 진입하면, 해당 레벨은 박스 내부의 어둠으로 덮입니다",
+        "name_en":  "When Theta enters level inside box,  level is covered by darkness inside box",
+        "name_jp":  "シータが箱内のレベルへ入ると、そのレベルは箱内部の暗闇で覆われる。"
+    },
+    {
+        "id":  "prism-1",
+        "hierachy":  2,
+        "reqlevel":  "illuminate",
+        "pointer":  "prism",
+        "name_cn":  "프리즘은 가로 또는 세로 빔을 받아들여 가로 방향으로 새로운 빔을 굴절시키는 박스 형태의 오브젝트입니다",
+        "name_en":  "Prism is a box-like object that can accepts horizontal or vertical beams and  refracts new beams in directions horizontally",
+        "name_jp":  "プリズムは箱型オブジェクトで、水平または垂直の光線を受け、水平向きに新たな光線を屈折させる。"
+    },
+    {
+        "id":  "prism-2",
+        "hierachy":  2,
+        "reqlevel":  "divergence",
+        "pointer":  "prism",
+        "name_cn":  "프리즘를 통해 레벨 조건을 충족하려면, 모든 출사 빔 경로(최소 하나)에서 세타 또는 조건을 충족한 다른 프리즘이 관측되어야 합니다",
+        "name_en":  "To satisfy level conditions via prism, must observe Theta or other satisfied prisms in all exit Beam Paths (at least one) ",
+        "name_jp":  "プリズム経由でクリア条件を満たすには、すべての出射光路（少なくとも1本）で、シータまたは条件を満たした別プリズムを観測する必要がある。"
+    },
+    {
+        "id":  "prism-3",
+        "hierachy":  2,
+        "reqlevel":  "divergence",
+        "pointer":  "prism",
+        "name_cn":  "참고: \"빔 경로\"란 최소 한 칸 길이의 빔 또는 다른 프리즘을 의미합니다",
+        "name_en":  "Note: \"Beam Path\" means beam of at least one tile length or another prism",
+        "name_jp":  "注記：「光路」とは、1マス以上の長さを持つ光線、または別のプリズムを指す。"
+    },
+    {
+        "id":  "prism-4",
+        "hierachy":  2,
+        "reqlevel":  "divergence",
+        "pointer":  "prism",
+        "name_cn":  "인접한 벽이나 박스로 빔 경로 생성을 차단할 수 있습니다",
+        "name_en":  "Can block beam path creation with adjacent walls or boxes",
+        "name_jp":  "隣接する壁や箱などを使うことで、光路の生成を阻止できる。"
+    },
+    {
+        "id":  "prism-5",
+        "hierachy":  2,
+        "reqlevel":  "divergence",
+        "pointer":  "prism",
+        "name_cn":  "출사 빔이 있는 프리즘 면은 더 이상 다른 프리즘의 빔을 받아들이지 않습니다",
+        "name_en":  "Prism faces with exit beams no longer accept beams from other prisms",
+        "name_jp":  "出射光線が存在するプリズム面は、他プリズムからの光線を受け付けなくなる。"
+    },
+    {
+        "id":  "ice-1",
+        "hierachy":  2,
+        "reqlevel":  "ice",
+        "pointer":  "ice",
+        "name_cn":  "세타와 박스 형태의 오브젝트는 얼음 위에서 연속적으로 이동할 수 있습니다",
+        "name_en":  "Theta and box-like objects can move continuously on ice",
+        "name_jp":  "シータと箱型オブジェクトは氷床上で連続的に移動できる。"
+    },
+    {
+        "id":  "ice-2",
+        "hierachy":  2,
+        "reqlevel":  "curling",
+        "pointer":  "ice",
+        "name_cn":  "얼음 위에서 오브젝트가 다른 오브젝트를 밀면, 자신의 속도를 잃고 그 속도를 밀려난 오브젝트에게 전달합니다",
+        "name_en":  "When object pushes another on ice,  it loses its velocity and transfers it to the pushed object",
+        "name_jp":  "氷床上でオブジェクトが別オブジェクトを押すと、自身の速度を失い、その速度を相手へ受け渡す。"
+    },
+    {
+        "id":  "ice-3",
+        "hierachy":  2,
+        "reqlevel":  "balance",
+        "pointer":  "ice",
+        "name_cn":  "얼음 위에서 서로 반대 방향의 속도를 가진 두 오브젝트가 충돌하면, 접촉 후의 속도는 합산된 운동량에 의해 결정됩니다",
+        "name_en":  "When two objects with opposite velocities collide on ice, post-contact velocity determined by combined momentum",
+        "name_jp":  "氷床上で逆向き速度を持つ2つの衝突可能オブジェクトが接触すると、接触後の速度は運動量和で決まる。"
+    },
+    {
+        "id":  "ice-4",
+        "hierachy":  2,
+        "reqlevel":  "realeye",
+        "pointer":  "ice",
+        "name_cn":  "얼음 위에서 서로 다른 속도를 가진 두 오브젝트가 중첩되면, 중첩 후의 속도는 합산된 운동량에 의해 결정된 속도가 됩니다",
+        "name_en":  "When two objects with different velocities overlap on ice, velocity of  superposition is determined by combined momentum",
+        "name_jp":  "氷床上で異なる速度の2オブジェクトが重なると、重ね合わせ後の速度は運動量和で決まる。"
+    },
+    {
+        "id":  "ice-5",
+        "hierachy":  2,
+        "reqlevel":  "mobius",
+        "pointer":  "ice",
+        "name_cn":  "개방형 경계가 있는 레벨에서는 무한 루프 현상이 발생이 가능합니다",
+        "name_en":  "In levels with open boundaries,  infinite loops may occur",
+        "name_jp":  "開放境界のレベルでは、無限ループ現象が発生し得る。"
+    },
+    {
+        "id":  "wall-1",
+        "hierachy":  2,
+        "reqlevel":  "4o",
+        "pointer":  "wall",
+        "name_cn":  "벽은 밀 수 없는 특수한 컨테이너 형태의 블록입니다",
+        "name_en":  "Walls are special container-like blocks that cannot be pushed",
+        "name_jp":  "壁は特殊な箱型ブロックで、押して動かすことはできない。"
+    },
+    {
+        "id":  "wall-2",
+        "hierachy":  2,
+        "reqlevel":  "4o",
+        "pointer":  "wall",
+        "name_cn":  "세타는 벽 내부에서 인접한 다른 벽으로 이동할 수 있습니다",
+        "name_en":  "Theta can move within a wall to another adjacent wall.",
+        "name_jp":  "シータは壁内部を移動し、隣接する別の壁へ移れる。"
+    },
+    {
+        "id":  "wall-3",
+        "hierachy":  2,
+        "reqlevel":  "4o",
+        "pointer":  "wall",
+        "name_cn":  "내부 분열을 통해 벽을 이동시킬 수 있습니다",
+        "name_en":  "Can move walls via internal splitting",
+        "name_jp":  "内部分裂を利用して壁を移動させられる。"
+    },
+    {
+        "id":  "wall-4",
+        "hierachy":  2,
+        "reqlevel":  "4p",
+        "pointer":  "wall",
+        "name_cn":  "중첩을 통해 벽에 들어갈 수 있습니다. 단, 벽끼리는 중첩될 수 없습니다.",
+        "name_en":  "Can enter walls via superposition; walls cannot overlap with walls",
+        "name_jp":  "重ね合わせを利用してシータを壁内へ入れられるが、壁同士は重ね合わせできない。"
+    },
+    {
+        "id":  "wall-5",
+        "hierachy":  2,
+        "reqlevel":  "4r",
+        "pointer":  "wall",
+        "name_cn":  "다른 컨테이너와 중첩된 벽은 밀 수 있지만, 그 안의 세타는 다른 벽으로 이동할 수 없습니다.",
+        "name_en":  "Walls in superposition with other containers can be pushed,  but Theta inside cannot move to other walls",
+        "name_jp":  "他の箱型オブジェクトと重ね合わせ状態の壁は押せるが、その中のシータは別の壁へ移動できない。"
+    },
+    {
+        "id":  "shadow-1",
+        "hierachy":  2,
+        "reqlevel":  "darkcloud",
+        "pointer":  "shadow",
+        "name_cn":  "어둠 속에서는 아무것도 보이지 않습니다.",
+        "name_en":  "Nothing is visible in darkness",
+        "name_jp":  "暗闇の中では何も見えない。"
+    },
+    {
+        "id":  "shadow-2",
+        "hierachy":  2,
+        "reqlevel":  "illumination",
+        "pointer":  "shadow",
+        "name_cn":  "어둠은 광선으로 제거할 수 있습니다.",
+        "name_en":  "Darkness can be removed by beams",
+        "name_jp":  "暗闇は光線によって除去できる。"
+    },
+    {
+        "id":  "shadow-3",
+        "hierachy":  2,
+        "reqlevel":  "phantom",
+        "pointer":  "shadow",
+        "name_cn":  "어둠은 세타의 유령 상태를 유지할 수 있습니다. 유령 상태의 세타는 어둠의 경계에 가로막힙니다.",
+        "name_en":  "Darkness can preserve Theta\u0027s ghost state. Ghost-state Theta is blocked by darkness\u0027s border",
+        "name_jp":  "暗闇は自由移動中のシータの幽霊状態を保持できる。幽霊状態のシータは暗闇の境界に阻まれる。"
+    },
+    {
+        "id":  "shadow-4",
+        "hierachy":  2,
+        "reqlevel":  "necrosis",
+        "pointer":  "shadow",
+        "name_cn":  "어둠 상자는 광선으로 파괴할 수 있는 특수 상자입니다.",
+        "name_en":  "Shadow boxes are special boxes that can be destroyed by beams",
+        "name_jp":  "暗闇箱は特殊な箱で、光線によって消去できる。"
+    },
+    {
+        "id":  "shadow-5",
+        "hierachy":  2,
+        "reqlevel":  "release",
+        "pointer":  "shadow",
+        "name_cn":  "어둠 상자에 갇힌 세타는 어둠 상자를 파괴하여 구출할 수 있습니다.",
+        "name_en":  "Theta boxed in shadow box can be released by destroying shadow box",
+        "name_jp":  "暗闇箱に入ったシータは、暗闇箱を消去することで解放される。"
+    },
+    {
+        "id":  "lock-1",
+        "hierachy":  2,
+        "reqlevel":  "heart",
+        "pointer":  "lock",
+        "name_cn":  "세타가 열쇠를 가지고 있을 때, 자물쇠 블록의 위치로 들어가 열쇠 하나를 소모하여 파괴할 수 있습니다.",
+        "name_en":  "When Theta holds key, she can enter lock block position and consume one key to destroy it",
+        "name_jp":  "シータが鍵を所持していれば、錠ブロックのマスに入り、鍵を1つ消費して破壊できる。"
+    },
+    {
+        "id":  "lock-2",
+        "hierachy":  2,
+        "reqlevel":  "life",
+        "pointer":  "lock",
+        "name_cn":  "세타가 얼음 위에서 이동하며 자물쇠를 열 때, 현재의 속도를 잃습니다.",
+        "name_en":  "Theta loses current velocity after opening lock while moving on ice",
+        "name_jp":  "シータは氷床上で移動しながら錠を開けると、現在の速度を失う。"
+    },
+    {
+        "id":  "lock-3",
+        "hierachy":  2,
+        "reqlevel":  "stone",
+        "pointer":  "lock",
+        "name_cn":  "자물쇠는 이동할 수 없는 특수 상자형 블록이지만, 상자와 중첩되었을 때 밀 수 있습니다.",
+        "name_en":  "Locks are special box-like blocks that cannot be moved,  but can be pushed when in superposition with boxes",
+        "name_jp":  "錠は特殊な箱型ブロックで単体では動かせないが、箱との重ね合わせ状態では押せる。"
+    },
+    {
+        "id":  "lock-4",
+        "hierachy":  2,
+        "reqlevel":  "3U",
+        "pointer":  "lock",
+        "name_cn":  "중첩체의 성질은 가장 아래쪽 블록을 따릅니다. 중첩 시 자물쇠는 상자보다 위에, 벽보다 아래에 위치합니다.",
+        "name_en":  "Superposition properties match bottom block; locks are above boxes, below walls in superposition",
+        "name_jp":  "重ね合わせ体の性質は最下層ブロックに従い、錠は重ね合わせ時に箱より上、壁より下の層に位置する。"
+    },
+    {
+        "id":  "lock-5",
+        "hierachy":  2,
+        "reqlevel":  "3U",
+        "pointer":  "lock",
+        "name_cn":  "자물쇠가 중첩체의 가장 아래에 있을 때만, 같은 위치에 있는 세타가 자물쇠를 열 수 있습니다.",
+        "name_en":  "Only when lock is at bottom of superposition, Theta at same position can open it",
+        "name_jp":  "錠が重ね合わせ体の最下層にある場合のみ、同位置のシータが錠を開けられる。"
+    },
+    {
+        "id":  "lock-6",
+        "hierachy":  2,
+        "reqlevel":  "4Z",
+        "pointer":  "lock",
+        "name_cn":  "자물쇠를 열 때, 중첩체 위에 다른 컨테이너가 있다면 그 위의 모든 컨테이너와 병합됩니다.",
+        "name_en":  "When opening lock, if other containers are above in superposition, they merge with all containers above",
+        "name_jp":  "錠を開ける際、重ね合わせ体の上層に他の箱型オブジェクトがあれば、それら上層すべてと重ね合わせが再構成される。"
+    },
+    {
+        "id":  "priority-1",
+        "hierachy":  2,
+        "reqlevel":  "maxwell",
+        "pointer":  "priority",
+        "name_cn":  "서로 다른 세타 복제본들은 이벤트 결과에 영향을 주는 우선순위를 가집니다.",
+        "name_en":  "Different Theta copies have priority order affecting event outcomes",
+        "name_jp":  "シータのコピー間には優先順があり、イベント結果に影響する場合がある。"
+    },
+    {
+        "id":  "priority-2",
+        "hierachy":  2,
+        "reqlevel":  "maxwell",
+        "pointer":  "priority",
+        "name_cn":  "충돌 시, 우선순위가 높은 세타가 원래 세계선의 위치를 점유합니다.",
+        "name_en":  "Higher-priority Theta occupies original worldline position in conflicts",
+        "name_jp":  "衝突時には、優先度の高いシータが元の位置側の世界線を占有する。"
+    },
+    {
+        "id":  "priority-3",
+        "hierachy":  2,
+        "reqlevel":  "maxwell",
+        "pointer":  "priority",
+        "name_cn":  "일반적으로, 먼저 생성된 세타가 더 높은 우선순위를 가집니다.",
+        "name_en":  "Generally, earlier-created Thetas have higher priority",
+        "name_jp":  "一般に、より早く生成されたシータほど優先度が高い。"
+    },
+    {
+        "id":  "priority-4",
+        "hierachy":  2,
+        "reqlevel":  "anchor",
+        "pointer":  "priority",
+        "name_cn":  "한 번의 분열로 생성된 세타들 중, 첫 번째 세타는 분열 전의 세타와 동일합니다.",
+        "name_en":  "Among Thetas from one split, the first is equivalent to pre-split Theta",
+        "name_jp":  "1回の分裂で生じたシータのうち、最初に生成される個体は分裂前のシータと実質的に同一である。"
+    },
+    {
+        "id":  "priority-5",
+        "hierachy":  2,
+        "reqlevel":  "anchor",
+        "pointer":  "priority",
+        "name_cn":  "양자 얽힘을 생성하는 분열에서 세타가 다른 얽힘 관계를 가지고 있다면, 첫 번째 세타가 이를 유지하며, 두 번째 세타는 첫 번째 세타와만 얽히게 됩니다.",
+        "name_en":  "In entanglement-creating splits,  if Theta has other entanglements, the first Theta keeps them,while the second one is only entangled with the first.",
+        "name_jp":  "量子もつれを生む分裂で、元のシータが他のもつれ関係を持つ場合、第1個体はその関係を保持し、第2個体は保持せず第1個体とのみもつれる。"
+    },
+    {
+        "id":  "priority-6",
+        "hierachy":  2,
+        "reqlevel":  "laplace",
+        "pointer":  "priority",
+        "name_cn":  "이동을 통해 현재 세계선으로 들어온 세타의 생성 시간은 이동한 시간과 동일하게 처리됩니다.",
+        "name_en":  "Theta entering current worldline via transport has creation time equal to transport time",
+        "name_jp":  "越境で現在世界線へ入ったシータの生成時刻は、実際にはその越境流入時刻として扱われる。"
+    },
+    {
+        "id":  "priority-7",
+        "hierachy":  2,
+        "reqlevel":  "lifeend",
+        "pointer":  "priority",
+        "name_cn":  "서로 다른 세계선의 세타 우선순위를 결정할 때(예: 입장 전 위치 저장 시), 왼쪽/아래쪽 세계선의 세타가 항상 더 높은 우선순위를 가집니다.",
+        "name_en":  "When deciding priority of Theta from different worldlines(such as for saving the position befor entering), Thetas from left/lower worldlines always have higher priority",
+        "name_jp":  "異なる世界線間でシータ優先度を比較する場合（例：入場時保存）、左側／下側の世界線にいるシータが常に高優先となる。"
+    }
+]
