@@ -19,3 +19,4 @@ SteamLibrary\steamapps\common\Theta and Paralldoxs on Worldlines\Theta and Paral
 
 # 패치현황
 - 2026.05.01 챕터 2 까지의 번역 수정
+- 2026.05.02 챕터 3 까지의 번역 수정
